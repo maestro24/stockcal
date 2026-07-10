@@ -226,6 +226,29 @@ function demoData() {
   };
 }
 
+// ── SEO: 예정 공모주를 Event 스키마로 주입 (Googlebot은 JS 실행) ──
+function injectEventSchema() {
+  const upcoming = ipoData.items
+    .filter((it) => ipoStatus(it, today) !== 'done' && it.name && !it.name.includes('예시'))
+    .slice(0, 20);
+  if (!upcoming.length) return;
+  const events = upcoming.map((it) => ({
+    '@type': 'Event',
+    name: `${it.name} 공모주 청약`,
+    startDate: it.subStart,
+    endDate: it.subEnd,
+    eventAttendanceMode: 'https://schema.org/OnlineEventAttendanceMode',
+    eventStatus: 'https://schema.org/EventScheduled',
+    location: { '@type': 'VirtualLocation', url: 'https://maestro24.github.io/stockcal/' },
+    organizer: { '@type': 'Organization', name: it.underwriters?.[0] || 'KRX' },
+    description: `${it.name} 공모주 청약 ${it.subStart}~${it.subEnd}${it.listDate ? `, 상장 예정일 ${it.listDate}` : ''}${it.finalPrice ? `, 확정 공모가 ${it.finalPrice.toLocaleString()}원` : ''}`,
+  }));
+  const s = document.createElement('script');
+  s.type = 'application/ld+json';
+  s.textContent = JSON.stringify({ '@context': 'https://schema.org', '@graph': events });
+  document.head.appendChild(s);
+}
+
 // ── 초기화 ──
 (async () => {
   if (new URLSearchParams(location.search).get('demo') === '1') {
@@ -241,4 +264,5 @@ function demoData() {
   renderWeekSummary();
   renderCalendar();
   renderList();
+  injectEventSchema();
 })();
