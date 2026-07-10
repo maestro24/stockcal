@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOCUMENT>
+  <BODY>
+    <TABLE>
+      <TR><TD>1. 배당구분</TD><TD>결산배당</TD></TR>
+      <TR><TD>2. 배당종류</TD><TD>현금배당</TD></TR>
+      <TR><TD>3. 1주당 배당금(원)</TD><TD>보통주식</TD><TD>1,500</TD></TR>
+      <TR><TD></TD><TD>종류주식</TD><TD>1,550</TD></TR>
+      <TR><TD>5. 배당기준일</TD><TD>2099년 02월 28일</TD></TR>
+      <TR><TD>6. 배당금지급 예정일자</TD><TD>2099-03-20</TD></TR>
+    </TABLE>
+  </BODY>
+</DOCUMENT>

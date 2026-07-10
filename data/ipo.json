@@ -1,0 +1,1430 @@
+{
+  "updated": "2026-07-10T21:09:20+09:00",
+  "source": "KRX KIND / DART",
+  "items": [
+    {
+      "name": "쎄크",
+      "code": null,
+      "subStart": "2025-04-17",
+      "subEnd": "2025-04-18",
+      "listDate": "2025-04-28",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 15000,
+      "underwriters": [
+        "신영증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "원일티엔아이",
+      "code": null,
+      "subStart": "2025-04-24",
+      "subEnd": "2025-04-25",
+      "listDate": "2025-05-09",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 13500,
+      "underwriters": [
+        "엔에이치투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "바이오비쥬",
+      "code": null,
+      "subStart": "2025-05-08",
+      "subEnd": "2025-05-09",
+      "listDate": "2025-05-20",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 9100,
+      "underwriters": [
+        "대신증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "달바글로벌",
+      "code": null,
+      "subStart": "2025-05-09",
+      "subEnd": "2025-05-12",
+      "listDate": "2025-05-22",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 66300,
+      "underwriters": [
+        "미래에셋증권 주식회사"
+      ],
+      "market": "KOSPI"
+    },
+    {
+      "name": "롯데글로벌로지스",
+      "code": null,
+      "subStart": "2025-05-12",
+      "subEnd": "2025-05-13",
+      "listDate": "2025-05-21",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": null,
+      "underwriters": [
+        "한국투자증권(주)",
+        "삼성증권(주)",
+        "KB증권(주)"
+      ],
+      "market": "KOSPI"
+    },
+    {
+      "name": "인투셀",
+      "code": null,
+      "subStart": "2025-05-13",
+      "subEnd": "2025-05-14",
+      "listDate": "2025-05-23",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 17000,
+      "underwriters": [
+        "미래에셋증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "키스트론",
+      "code": null,
+      "subStart": "2025-05-22",
+      "subEnd": "2025-05-23",
+      "listDate": "2025-06-02",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 3600,
+      "underwriters": [
+        "신한투자증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "링크솔루션",
+      "code": null,
+      "subStart": "2025-05-27",
+      "subEnd": "2025-05-28",
+      "listDate": "2025-06-10",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 23000,
+      "underwriters": [
+        "신영증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "지씨지놈",
+      "code": null,
+      "subStart": "2025-05-29",
+      "subEnd": "2025-05-30",
+      "listDate": "2025-06-11",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 10500,
+      "underwriters": [
+        "삼성증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "지에프씨생명과학",
+      "code": null,
+      "subStart": "2025-06-19",
+      "subEnd": "2025-06-20",
+      "listDate": "2025-06-30",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 15300,
+      "underwriters": [
+        "대신증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "뉴엔AI",
+      "code": null,
+      "subStart": "2025-06-23",
+      "subEnd": "2025-06-24",
+      "listDate": "2025-07-04",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 15000,
+      "underwriters": [
+        "엔에이치투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "대신밸류리츠",
+      "code": null,
+      "subStart": "2025-06-23",
+      "subEnd": "2025-06-24",
+      "listDate": "2025-07-10",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 5000,
+      "underwriters": [
+        "한국투자증권(주)",
+        "대신증권(주)"
+      ],
+      "market": "KOSPI"
+    },
+    {
+      "name": "KB제32호스팩",
+      "code": null,
+      "subStart": "2025-06-24",
+      "subEnd": "2025-06-25",
+      "listDate": "2025-07-04",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "KB증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "싸이닉솔루션",
+      "code": null,
+      "subStart": "2025-06-25",
+      "subEnd": "2025-06-26",
+      "listDate": "2025-07-07",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 4700,
+      "underwriters": [
+        "대신증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "아우토크립트",
+      "code": null,
+      "subStart": "2025-07-03",
+      "subEnd": "2025-07-04",
+      "listDate": "2025-07-15",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 22000,
+      "underwriters": [
+        "대신증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "엘에스스팩1호",
+      "code": null,
+      "subStart": "2025-07-08",
+      "subEnd": "2025-07-09",
+      "listDate": "2025-07-22",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "엘에스증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "디비금융제14호스팩",
+      "code": null,
+      "subStart": "2025-07-10",
+      "subEnd": "2025-07-11",
+      "listDate": "2025-07-22",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "DB증권주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "도우인시스",
+      "code": null,
+      "subStart": "2025-07-14",
+      "subEnd": "2025-07-15",
+      "listDate": "2025-07-23",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 32000,
+      "underwriters": [
+        "키움증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "뉴로핏",
+      "code": null,
+      "subStart": "2025-07-15",
+      "subEnd": "2025-07-16",
+      "listDate": "2025-07-25",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 14000,
+      "underwriters": [
+        "미래에셋증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "엔알비",
+      "code": null,
+      "subStart": "2025-07-17",
+      "subEnd": "2025-07-18",
+      "listDate": "2025-07-28",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 21000,
+      "underwriters": [
+        "엔에이치투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "프로티나",
+      "code": null,
+      "subStart": "2025-07-18",
+      "subEnd": "2025-07-21",
+      "listDate": "2025-07-29",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 14000,
+      "underwriters": [
+        "한국투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "대한조선",
+      "code": null,
+      "subStart": "2025-07-22",
+      "subEnd": "2025-07-23",
+      "listDate": "2025-08-01",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 50000,
+      "underwriters": [
+        "KB증권(주)",
+        "엔에이치투자증권(주)",
+        "신영증권(주)"
+      ],
+      "market": "KOSPI"
+    },
+    {
+      "name": "하나35호스팩",
+      "code": null,
+      "subStart": "2025-07-25",
+      "subEnd": "2025-07-28",
+      "listDate": "2025-08-06",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "하나증권주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "아이티켐",
+      "code": null,
+      "subStart": "2025-07-28",
+      "subEnd": "2025-07-29",
+      "listDate": "2025-08-07",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 16100,
+      "underwriters": [
+        "KB증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "교보18호스팩",
+      "code": null,
+      "subStart": "2025-08-05",
+      "subEnd": "2025-08-06",
+      "listDate": "2025-08-14",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "교보증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "삼양컴텍",
+      "code": null,
+      "subStart": "2025-08-05",
+      "subEnd": "2025-08-06",
+      "listDate": "2025-08-18",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 7700,
+      "underwriters": [
+        "신한투자증권 주식회사",
+        "엔에이치투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "지투지바이오",
+      "code": null,
+      "subStart": "2025-08-05",
+      "subEnd": "2025-08-06",
+      "listDate": "2025-08-14",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 58000,
+      "underwriters": [
+        "미래에셋증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "에스엔시스",
+      "code": null,
+      "subStart": "2025-08-07",
+      "subEnd": "2025-08-08",
+      "listDate": "2025-08-19",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 30000,
+      "underwriters": [
+        "신한투자증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "그래피",
+      "code": null,
+      "subStart": "2025-08-11",
+      "subEnd": "2025-08-12",
+      "listDate": "2025-08-25",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 15000,
+      "underwriters": [
+        "KB증권(주)",
+        "신한투자증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "삼성스팩10호",
+      "code": null,
+      "subStart": "2025-08-11",
+      "subEnd": "2025-08-12",
+      "listDate": "2025-08-21",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "삼성증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "제이피아이헬스케어",
+      "code": null,
+      "subStart": "2025-08-11",
+      "subEnd": "2025-08-12",
+      "listDate": "2025-08-21",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 20000,
+      "underwriters": [
+        "키움증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "한라캐스트",
+      "code": null,
+      "subStart": "2025-08-11",
+      "subEnd": "2025-08-12",
+      "listDate": "2025-08-20",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 5800,
+      "underwriters": [
+        "대신증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "에스투더블유",
+      "code": null,
+      "subStart": "2025-09-10",
+      "subEnd": "2025-09-11",
+      "listDate": "2025-09-19",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 13200,
+      "underwriters": [
+        "대신증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "명인제약",
+      "code": null,
+      "subStart": "2025-09-18",
+      "subEnd": "2025-09-19",
+      "listDate": "2025-10-01",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 58000,
+      "underwriters": [
+        "KB증권(주)"
+      ],
+      "market": "KOSPI"
+    },
+    {
+      "name": "삼성스팩11호",
+      "code": null,
+      "subStart": "2025-09-19",
+      "subEnd": "2025-09-22",
+      "listDate": "2025-09-30",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "삼성증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "KB제33호스팩",
+      "code": null,
+      "subStart": "2025-09-22",
+      "subEnd": "2025-09-23",
+      "listDate": "2025-09-30",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "KB증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "노타",
+      "code": null,
+      "subStart": "2025-10-23",
+      "subEnd": "2025-10-24",
+      "listDate": "2025-11-03",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 9100,
+      "underwriters": [
+        "미래에셋증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "이노테크",
+      "code": null,
+      "subStart": "2025-10-27",
+      "subEnd": "2025-10-28",
+      "listDate": "2025-11-07",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 14700,
+      "underwriters": [
+        "KB증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "세나테크놀로지",
+      "code": null,
+      "subStart": "2025-11-04",
+      "subEnd": "2025-11-05",
+      "listDate": "2025-11-14",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 56800,
+      "underwriters": [
+        "KB증권(주)",
+        "신한투자증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "큐리오시스",
+      "code": null,
+      "subStart": "2025-11-04",
+      "subEnd": "2025-11-05",
+      "listDate": "2025-11-13",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 22000,
+      "underwriters": [
+        "키움증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "그린광학",
+      "code": null,
+      "subStart": "2025-11-06",
+      "subEnd": "2025-11-07",
+      "listDate": "2025-11-17",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 16000,
+      "underwriters": [
+        "신영증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "더핑크퐁컴퍼니",
+      "code": null,
+      "subStart": "2025-11-06",
+      "subEnd": "2025-11-07",
+      "listDate": "2025-11-18",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 38000,
+      "underwriters": [
+        "미래에셋증권 주식회사",
+        "삼성증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "씨엠티엑스",
+      "code": null,
+      "subStart": "2025-11-10",
+      "subEnd": "2025-11-11",
+      "listDate": "2025-11-20",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 60500,
+      "underwriters": [
+        "미래에셋증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "비엔케이제3호스팩",
+      "code": null,
+      "subStart": "2025-11-11",
+      "subEnd": "2025-11-12",
+      "listDate": "2025-11-21",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "(주)비엔케이투자증권"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "비츠로넥스텍",
+      "code": null,
+      "subStart": "2025-11-11",
+      "subEnd": "2025-11-12",
+      "listDate": "2025-11-21",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 6900,
+      "underwriters": [
+        "엔에이치투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "신영스팩11호",
+      "code": null,
+      "subStart": "2025-11-13",
+      "subEnd": "2025-11-14",
+      "listDate": "2025-11-24",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "신영증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "미래에셋비전스팩8호",
+      "code": null,
+      "subStart": "2025-11-17",
+      "subEnd": "2025-11-18",
+      "listDate": "2025-11-27",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "미래에셋증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "아로마티카",
+      "code": null,
+      "subStart": "2025-11-18",
+      "subEnd": "2025-11-19",
+      "listDate": "2025-11-27",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 8000,
+      "underwriters": [
+        "신한투자증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "미래에셋비전스팩9호",
+      "code": null,
+      "subStart": "2025-11-19",
+      "subEnd": "2025-11-20",
+      "listDate": "2025-12-01",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "미래에셋증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "삼성스팩12호",
+      "code": null,
+      "subStart": "2025-11-19",
+      "subEnd": "2025-11-20",
+      "listDate": "2025-11-28",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "삼성증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "에임드바이오",
+      "code": null,
+      "subStart": "2025-11-21",
+      "subEnd": "2025-11-24",
+      "listDate": "2025-12-04",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 11000,
+      "underwriters": [
+        "미래에셋증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "테라뷰",
+      "code": null,
+      "subStart": "2025-11-21",
+      "subEnd": "2025-11-24",
+      "listDate": "2025-12-09",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 8000,
+      "underwriters": [
+        "삼성증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "엔에이치스팩32호",
+      "code": null,
+      "subStart": "2025-11-24",
+      "subEnd": "2025-11-25",
+      "listDate": "2025-12-05",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "엔에이치투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "키움히어로제1호스팩",
+      "code": null,
+      "subStart": "2025-12-01",
+      "subEnd": "2025-12-02",
+      "listDate": "2025-12-12",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "키움증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "페스카로",
+      "code": null,
+      "subStart": "2025-12-01",
+      "subEnd": "2025-12-02",
+      "listDate": "2025-12-10",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 15500,
+      "underwriters": [
+        "엔에이치투자증권(주)",
+        "한화투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "교보19호스팩",
+      "code": null,
+      "subStart": "2025-12-02",
+      "subEnd": "2025-12-03",
+      "listDate": "2025-12-12",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "교보증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "유진스팩12호",
+      "code": null,
+      "subStart": "2025-12-02",
+      "subEnd": "2025-12-03",
+      "listDate": "2025-12-11",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "유진투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "이지스",
+      "code": null,
+      "subStart": "2025-12-02",
+      "subEnd": "2025-12-03",
+      "listDate": "2025-12-11",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 15000,
+      "underwriters": [
+        "엔에이치투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "쿼드메디슨",
+      "code": null,
+      "subStart": "2025-12-02",
+      "subEnd": "2025-12-03",
+      "listDate": "2025-12-12",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 15000,
+      "underwriters": [
+        "엔에이치투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "티엠씨",
+      "code": null,
+      "subStart": "2025-12-03",
+      "subEnd": "2025-12-04",
+      "listDate": "2025-12-15",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 9300,
+      "underwriters": [
+        "미래에셋증권 주식회사"
+      ],
+      "market": "KOSPI"
+    },
+    {
+      "name": "메리츠제1호스팩",
+      "code": null,
+      "subStart": "2025-12-04",
+      "subEnd": "2025-12-05",
+      "listDate": "2025-12-15",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "메리츠증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "아크릴",
+      "code": null,
+      "subStart": "2025-12-04",
+      "subEnd": "2025-12-05",
+      "listDate": "2025-12-16",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 19500,
+      "underwriters": [
+        "신한투자증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "나라스페이스테크놀로지",
+      "code": null,
+      "subStart": "2025-12-08",
+      "subEnd": "2025-12-09",
+      "listDate": "2025-12-17",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 16500,
+      "underwriters": [
+        "삼성증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "IBKS제25호스팩",
+      "code": null,
+      "subStart": "2025-12-09",
+      "subEnd": "2025-12-10",
+      "listDate": "2025-12-19",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "IBK투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "알지노믹스",
+      "code": null,
+      "subStart": "2025-12-09",
+      "subEnd": "2025-12-10",
+      "listDate": "2025-12-18",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 22500,
+      "underwriters": [
+        "엔에이치투자증권(주)",
+        "삼성증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "미래에셋비전스팩11호",
+      "code": null,
+      "subStart": "2025-12-10",
+      "subEnd": "2025-12-11",
+      "listDate": "2025-12-22",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "미래에셋증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "삼진식품",
+      "code": null,
+      "subStart": "2025-12-11",
+      "subEnd": "2025-12-12",
+      "listDate": "2025-12-22",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 7600,
+      "underwriters": [
+        "대신증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "하나36호스팩",
+      "code": null,
+      "subStart": "2025-12-11",
+      "subEnd": "2025-12-12",
+      "listDate": "2025-12-22",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "하나증권주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "미래에셋비전스팩10호",
+      "code": null,
+      "subStart": "2025-12-12",
+      "subEnd": "2025-12-15",
+      "listDate": "2025-12-23",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "미래에셋증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "리브스메드",
+      "code": null,
+      "subStart": "2025-12-15",
+      "subEnd": "2025-12-16",
+      "listDate": "2025-12-24",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 55000,
+      "underwriters": [
+        "삼성증권(주)",
+        "미래에셋증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "세미파이브",
+      "code": null,
+      "subStart": "2025-12-18",
+      "subEnd": "2025-12-19",
+      "listDate": "2025-12-29",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 24000,
+      "underwriters": [
+        "삼성증권(주)",
+        "유비에스증권 리미티드 서울지점"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "삼성스팩13호",
+      "code": null,
+      "subStart": "2026-01-12",
+      "subEnd": "2026-01-13",
+      "listDate": "2026-01-21",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "삼성증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "덕양에너젠",
+      "code": null,
+      "subStart": "2026-01-20",
+      "subEnd": "2026-01-21",
+      "listDate": "2026-01-30",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 10000,
+      "underwriters": [
+        "미래에셋증권 주식회사",
+        "엔에이치투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "케이뱅크",
+      "code": null,
+      "subStart": "2026-02-20",
+      "subEnd": "2026-02-23",
+      "listDate": "2026-03-05",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 8300,
+      "underwriters": [
+        "엔에이치투자증권(주)",
+        "삼성증권(주)"
+      ],
+      "market": "KOSPI"
+    },
+    {
+      "name": "액스비스",
+      "code": null,
+      "subStart": "2026-02-23",
+      "subEnd": "2026-02-24",
+      "listDate": "2026-03-09",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 11500,
+      "underwriters": [
+        "미래에셋증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "에스팀",
+      "code": null,
+      "subStart": "2026-02-23",
+      "subEnd": "2026-02-24",
+      "listDate": "2026-03-06",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 8500,
+      "underwriters": [
+        "한국투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "카나프테라퓨틱스",
+      "code": null,
+      "subStart": "2026-03-05",
+      "subEnd": "2026-03-06",
+      "listDate": "2026-03-16",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 20000,
+      "underwriters": [
+        "한국투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "아이엠바이오로직스",
+      "code": null,
+      "subStart": "2026-03-11",
+      "subEnd": "2026-03-12",
+      "listDate": "2026-03-20",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 26000,
+      "underwriters": [
+        "한국투자증권(주)",
+        "신한투자증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "메쥬",
+      "code": null,
+      "subStart": "2026-03-16",
+      "subEnd": "2026-03-17",
+      "listDate": "2026-03-26",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 21600,
+      "underwriters": [
+        "신한투자증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "한패스",
+      "code": null,
+      "subStart": "2026-03-16",
+      "subEnd": "2026-03-17",
+      "listDate": "2026-03-25",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 19000,
+      "underwriters": [
+        "한국투자증권(주)",
+        "대신증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "엔에이치스팩33호",
+      "code": null,
+      "subStart": "2026-03-17",
+      "subEnd": "2026-03-18",
+      "listDate": "2026-03-27",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "엔에이치투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "리센스메디컬",
+      "code": null,
+      "subStart": "2026-03-19",
+      "subEnd": "2026-03-20",
+      "listDate": "2026-03-31",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 11000,
+      "underwriters": [
+        "KB증권(주)",
+        "한국투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "신한제17호스팩",
+      "code": null,
+      "subStart": "2026-03-19",
+      "subEnd": "2026-03-20",
+      "listDate": "2026-04-01",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "신한투자증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "교보20호스팩",
+      "code": null,
+      "subStart": "2026-03-23",
+      "subEnd": "2026-03-24",
+      "listDate": "2026-04-02",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "교보증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "인벤테라",
+      "code": null,
+      "subStart": "2026-03-23",
+      "subEnd": "2026-03-24",
+      "listDate": "2026-04-02",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 16600,
+      "underwriters": [
+        "엔에이치투자증권(주)",
+        "유진투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "키움히어로제2호스팩",
+      "code": null,
+      "subStart": "2026-04-14",
+      "subEnd": "2026-04-15",
+      "listDate": "2026-04-23",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "키움증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "신한제18호스팩",
+      "code": null,
+      "subStart": "2026-04-20",
+      "subEnd": "2026-04-21",
+      "listDate": "2026-04-30",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "신한투자증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "채비",
+      "code": null,
+      "subStart": "2026-04-20",
+      "subEnd": "2026-04-21",
+      "listDate": "2026-04-29",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 12300,
+      "underwriters": [
+        "KB증권(주)",
+        "삼성증권(주)",
+        "대신증권(주)",
+        "하나증권주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "코스모로보틱스",
+      "code": null,
+      "subStart": "2026-04-27",
+      "subEnd": "2026-04-28",
+      "listDate": "2026-05-11",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 6000,
+      "underwriters": [
+        "유진투자증권(주)",
+        "엔에이치투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "폴레드",
+      "code": null,
+      "subStart": "2026-05-04",
+      "subEnd": "2026-05-06",
+      "listDate": "2026-05-14",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 5000,
+      "underwriters": [
+        "엔에이치투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "마키나락스",
+      "code": null,
+      "subStart": "2026-05-11",
+      "subEnd": "2026-05-12",
+      "listDate": "2026-05-20",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 15000,
+      "underwriters": [
+        "미래에셋증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "대신밸런스제20호스팩",
+      "code": null,
+      "subStart": "2026-05-22",
+      "subEnd": "2026-05-26",
+      "listDate": "2026-06-05",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "대신증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "피스피스스튜디오",
+      "code": null,
+      "subStart": "2026-05-26",
+      "subEnd": "2026-05-27",
+      "listDate": "2026-06-08",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 21500,
+      "underwriters": [
+        "엔에이치투자증권(주)",
+        "미래에셋증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "메리츠제2호스팩",
+      "code": null,
+      "subStart": "2026-06-09",
+      "subEnd": "2026-06-10",
+      "listDate": "2026-06-19",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "메리츠증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "스트라드비젼",
+      "code": null,
+      "subStart": "2026-06-18",
+      "subEnd": "2026-06-19",
+      "listDate": "2026-06-30",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 12000,
+      "underwriters": [
+        "KB증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "져스텍",
+      "code": null,
+      "subStart": "2026-06-18",
+      "subEnd": "2026-06-19",
+      "listDate": "2026-06-29",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 12500,
+      "underwriters": [
+        "삼성증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "한국제16호스팩",
+      "code": null,
+      "subStart": "2026-06-22",
+      "subEnd": "2026-06-23",
+      "listDate": "2026-06-30",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "한국투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "매드업",
+      "code": null,
+      "subStart": "2026-06-23",
+      "subEnd": "2026-06-24",
+      "listDate": "2026-07-01",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 8000,
+      "underwriters": [
+        "미래에셋증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "레몬헬스케어",
+      "code": null,
+      "subStart": "2026-06-24",
+      "subEnd": "2026-06-25",
+      "listDate": "2026-07-06",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 10000,
+      "underwriters": [
+        "KB증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "레메디",
+      "code": null,
+      "subStart": "2026-07-01",
+      "subEnd": "2026-07-02",
+      "listDate": "2026-07-13",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 20700,
+      "underwriters": [
+        "KB증권(주)"
+      ],
+      "market": "KOSDAQ"
+    }
+  ]
+}

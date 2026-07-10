@@ -1,0 +1,43 @@
+{
+  "status": "000",
+  "message": "정상",
+  "page_no": 1,
+  "page_count": 100,
+  "total_count": 3,
+  "total_page": 1,
+  "list": [
+    {
+      "corp_cls": "Y",
+      "corp_name": "테스트기업A",
+      "corp_code": "00000001",
+      "stock_code": "000001",
+      "report_nm": "현금ㆍ현물배당결정",
+      "rcept_no": "20990101000101",
+      "flr_nm": "테스트기업A",
+      "rcept_dt": "20990101",
+      "rm": "유"
+    },
+    {
+      "corp_cls": "K",
+      "corp_name": "테스트기업B",
+      "corp_code": "00000002",
+      "stock_code": "000002",
+      "report_nm": "주요사항보고서(현금ㆍ현물배당결정)",
+      "rcept_no": "20990101000102",
+      "flr_nm": "테스트기업B",
+      "rcept_dt": "20990102",
+      "rm": "코"
+    },
+    {
+      "corp_cls": "Y",
+      "corp_name": "테스트기업C",
+      "corp_code": "00000003",
+      "stock_code": "000003",
+      "report_nm": "사업보고서 (2098.12)",
+      "rcept_no": "20990101000103",
+      "flr_nm": "테스트기업C",
+      "rcept_dt": "20990103",
+      "rm": "유"
+    }
+  ]
+}

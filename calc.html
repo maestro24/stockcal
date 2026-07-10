@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>청약 증거금 · 배당 수익률 계산기 — 주식달력</title>
+  <meta name="description" content="공모주 청약 증거금 계산기와 배당 수익률 계산기. 공모가와 수량을 입력하면 필요한 증거금을, 목표 월 배당을 입력하면 필요 투자금을 바로 계산합니다." />
+  <link rel="canonical" href="https://maestro24.github.io/stockcal/calc.html" />
+  <meta property="og:title" content="청약 증거금 · 배당 수익률 계산기 — 주식달력" />
+  <meta property="og:description" content="공모주 증거금과 배당 수익률을 즉시 계산." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://maestro24.github.io/stockcal/calc.html" />
+  <meta property="og:locale" content="ko_KR" />
+  <meta name="theme-color" content="#0f1115" media="(prefers-color-scheme: dark)" />
+  <meta name="theme-color" content="#f8fafc" media="(prefers-color-scheme: light)" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><defs><linearGradient id='g' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='%234F8DF7'/><stop offset='1' stop-color='%232456C4'/></linearGradient></defs><rect width='100' height='100' rx='18' fill='url(%23g)'/><rect x='20' y='30' width='60' height='50' rx='6' fill='white' opacity='.95'/><rect x='20' y='30' width='60' height='14' rx='6' fill='%23D4A72C'/><rect x='30' y='20' width='8' height='16' rx='3' fill='white'/><rect x='62' y='20' width='8' height='16' rx='3' fill='white'/><rect x='28' y='52' width='12' height='9' rx='2' fill='%234F8DF7'/><rect x='44' y='52' width='12' height='9' rx='2' fill='%23cbd5e1'/><rect x='60' y='52' width='12' height='9' rx='2' fill='%23cbd5e1'/><rect x='28' y='66' width='12' height='9' rx='2' fill='%23cbd5e1'/><rect x='44' y='66' width='12' height='9' rx='2' fill='%2343A047'/></svg>" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "공모주 청약 증거금은 어떻게 계산하나요?",
+        "acceptedAnswer": { "@type": "Answer", "text": "청약 증거금 = 공모가 × 청약 수량 × 증거금률입니다. 국내 공모주 증거금률은 통상 50%입니다. 예를 들어 공모가 30,000원인 종목에 10주를 청약하면 30,000 × 10 × 50% = 150,000원이 필요합니다. 균등배정만 노린다면 최소 청약 단위(보통 10주)의 증거금만 넣으면 됩니다." }
+      },
+      {
+        "@type": "Question",
+        "name": "배당 수익률은 어떻게 계산하나요?",
+        "acceptedAnswer": { "@type": "Answer", "text": "배당 수익률(%) = 연간 주당 배당금 ÷ 현재 주가 × 100입니다. 주가 70,000원, 연 배당 3,500원이면 수익률은 5%입니다. 배당소득세 15.4%를 감안하면 실수령 기준 수익률은 약 4.23%가 됩니다." }
+      }
+    ]
+  }
+  </script>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div id="app">
+    <header class="header">
+      <div class="brand">
+        <span class="brand-mark">📅</span>
+        <h1>주식달력</h1>
+      </div>
+      <nav class="nav">
+        <a href="index.html" class="nav-link">일정</a>
+        <a href="calc.html" class="nav-link active">계산기</a>
+        <button class="icon-btn" id="btn-theme" aria-label="테마 전환">☾</button>
+      </nav>
+    </header>
+
+    <main class="main">
+      <section class="calc-card">
+        <h2>청약 증거금 계산기</h2>
+        <p class="calc-desc">공모가 × 수량 × 증거금률. 국내 공모주는 통상 <strong>50%</strong>.</p>
+        <div class="calc-form">
+          <label>공모가 (원)
+            <input type="number" id="m-price" inputmode="numeric" placeholder="30000" min="0" />
+          </label>
+          <label>청약 수량 (주)
+            <input type="number" id="m-qty" inputmode="numeric" value="10" min="1" />
+          </label>
+          <label>증거금률 (%)
+            <input type="number" id="m-rate" inputmode="numeric" value="50" min="1" max="100" />
+          </label>
+        </div>
+        <div class="calc-result" id="m-result" aria-live="polite">
+          <span class="result-label">필요 증거금</span>
+          <span class="result-value">-</span>
+        </div>
+        <p class="calc-note" id="m-note"></p>
+      </section>
+
+      <section class="calc-card">
+        <h2>배당 수익률 계산기</h2>
+        <p class="calc-desc">연간 주당 배당금 ÷ 주가. 세후(15.4%)도 함께 표시.</p>
+        <div class="calc-form">
+          <label>현재 주가 (원)
+            <input type="number" id="y-price" inputmode="numeric" placeholder="70000" min="0" />
+          </label>
+          <label>연간 주당 배당금 (원)
+            <input type="number" id="y-div" inputmode="numeric" placeholder="3500" min="0" />
+          </label>
+        </div>
+        <div class="calc-result" id="y-result" aria-live="polite">
+          <span class="result-label">배당 수익률</span>
+          <span class="result-value">-</span>
+        </div>
+        <p class="calc-note" id="y-note"></p>
+      </section>
+
+      <section class="calc-card">
+        <h2>월 배당 목표 → 필요 투자금</h2>
+        <p class="calc-desc">"월 100만 원 배당 받으려면 얼마가 필요할까?" 세금(15.4%) 반영.</p>
+        <div class="calc-form">
+          <label>목표 월 배당 (원)
+            <input type="number" id="g-goal" inputmode="numeric" placeholder="1000000" min="0" />
+          </label>
+          <label>기대 배당수익률 (%)
+            <input type="number" id="g-yield" inputmode="numeric" placeholder="5" min="0.1" step="0.1" />
+          </label>
+        </div>
+        <div class="calc-result" id="g-result" aria-live="polite">
+          <span class="result-label">필요 투자금</span>
+          <span class="result-value">-</span>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>계산 결과는 참고용입니다. 실제 증거금률·세율은 증권사와 상품에 따라 다를 수 있습니다.</p>
+      <p><a href="index.html">← 공모주·배당 일정 보기</a></p>
+    </footer>
+  </div>
+  <script type="module" src="js/calcpage.js"></script>
+</body>
+</html>
