@@ -1,5 +1,158 @@
 {
-  "updated": null,
+  "updated": "2026-07-13T12:33:01+09:00",
   "source": "DART",
-  "items": []
+  "items": [
+    {
+      "name": "더즌",
+      "code": "462860",
+      "exDate": "2026-06-30",
+      "payDate": "2026-07-22",
+      "amount": 15,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "미원에스씨",
+      "code": "268280",
+      "exDate": "2026-06-30",
+      "payDate": "2026-07-24",
+      "amount": 1200,
+      "market": "KOSPI"
+    },
+    {
+      "name": "미원홀딩스",
+      "code": "107590",
+      "exDate": "2026-06-30",
+      "payDate": "2026-07-24",
+      "amount": 1200,
+      "market": "KOSPI"
+    },
+    {
+      "name": "미원화학",
+      "code": "134380",
+      "exDate": "2026-06-30",
+      "payDate": "2026-07-24",
+      "amount": 250,
+      "market": "KOSPI"
+    },
+    {
+      "name": "셀로맥스사이언스",
+      "code": "471820",
+      "exDate": "2026-06-30",
+      "payDate": "2026-07-30",
+      "amount": 50,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "슈프리마",
+      "code": "236200",
+      "exDate": "2026-06-30",
+      "payDate": "2026-07-23",
+      "amount": 200,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "슈프리마에이치큐",
+      "code": "094840",
+      "exDate": "2026-06-30",
+      "payDate": "2026-07-23",
+      "amount": 100,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "유니크",
+      "code": "011320",
+      "exDate": "2026-06-30",
+      "payDate": "2026-07-06",
+      "amount": 30,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "크레버스",
+      "code": "096240",
+      "exDate": "2026-06-30",
+      "payDate": "2026-07-08",
+      "amount": 500,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "에이블씨엔씨",
+      "code": "078520",
+      "exDate": "2026-07-15",
+      "payDate": "2026-07-29",
+      "amount": 100,
+      "market": "KOSPI"
+    },
+    {
+      "name": "오리온홀딩스",
+      "code": "001800",
+      "exDate": "2026-07-21",
+      "payDate": "2026-08-06",
+      "amount": 1750,
+      "market": "KOSPI"
+    },
+    {
+      "name": "진양폴리우레탄",
+      "code": "010640",
+      "exDate": "2026-07-21",
+      "payDate": "2026-08-11",
+      "amount": 50,
+      "market": "KOSPI"
+    },
+    {
+      "name": "시알홀딩스",
+      "code": "000480",
+      "exDate": "2026-07-22",
+      "payDate": "2026-07-07",
+      "amount": 200,
+      "market": "KOSPI"
+    },
+    {
+      "name": "동남합성",
+      "code": "023450",
+      "exDate": "2026-07-24",
+      "payDate": "2026-08-14",
+      "amount": 650,
+      "market": "KOSPI"
+    },
+    {
+      "name": "미원홀딩스",
+      "code": "107590",
+      "exDate": "2026-07-24",
+      "payDate": "2026-08-14",
+      "amount": 650,
+      "market": "KOSPI"
+    },
+    {
+      "name": "케이씨씨글라스",
+      "code": "344820",
+      "exDate": "2026-07-24",
+      "payDate": "2026-07-10",
+      "amount": 600,
+      "market": "KOSPI"
+    },
+    {
+      "name": "E1",
+      "code": "017940",
+      "exDate": "2026-07-31",
+      "payDate": "2026-08-14",
+      "amount": 450,
+      "market": "KOSPI"
+    },
+    {
+      "name": "매드업",
+      "code": "0039P0",
+      "exDate": "2026-07-31",
+      "payDate": "2026-08-07",
+      "amount": 54,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "매드업",
+      "code": "0039P0",
+      "exDate": "2026-07-31",
+      "payDate": "2026-08-07",
+      "amount": 54,
+      "market": "KOSDAQ"
+    }
+  ]
 }

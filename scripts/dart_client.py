@@ -50,14 +50,39 @@ def parse_list_response(text: str) -> list:
     return results
 
 
-def build_list_url(api_key: str, days: int = 30, page_count: int = 100) -> str:
+def build_list_url(api_key: str, days: int = 7, page_count: int = 100,
+                   page_no: int = 1) -> str:
+    # pblntf_ty=I(거래소공시): 배당결정은 수시공시라 이 유형에만 존재.
+    # 필터 없이는 30일 전체 공시 1.5만+건 중 1페이지만 보게 되어 수집 0건이 된다.
     end = datetime.now()
     begin = end - timedelta(days=days)
     return (
         f"{LIST_URL}?crtfc_key={api_key}"
         f"&bgn_de={begin:%Y%m%d}&end_de={end:%Y%m%d}"
-        f"&page_no=1&page_count={page_count}"
+        f"&pblntf_ty=I"
+        f"&page_no={page_no}&page_count={page_count}"
     )
+
+
+_MAX_PAGES = 15
+
+
+def fetch_dividend_listing(api_key: str, fetch) -> list:
+    """거래소공시 전 페이지를 순회하며 배당결정 공시만 수집."""
+    results = []
+    for page in range(1, _MAX_PAGES + 1):
+        raw = fetch(build_list_url(api_key, page_no=page)).decode("utf-8")
+        data = json.loads(raw)
+        if data.get("status") == "013":
+            break
+        if data.get("status") != "000":
+            raise ValueError(
+                f"DART list.json 오류: {data.get('status')} {data.get('message')}")
+        results.extend(parse_list_response(raw))
+        total_page = int(data.get("total_page") or 1)
+        if page >= total_page:
+            break
+    return results
 
 
 def build_document_url(api_key: str, rcept_no: str) -> str:
@@ -133,7 +158,7 @@ def collect_dividend_items(api_key: str, fetch) -> list:
     fetch: callable(url) -> bytes (네트워크 함수 주입)
     본문 파싱에 실패한 공시는 건너뛴다 (가짜/불완전 데이터 금지).
     """
-    listing = parse_list_response(fetch(build_list_url(api_key)).decode("utf-8"))
+    listing = fetch_dividend_listing(api_key, fetch)
     items = []
     for entry in listing[:_MAX_DOCUMENTS]:
         rcept_no = entry.get("rcept_no")
