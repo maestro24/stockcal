@@ -19,7 +19,12 @@
   <meta property="og:description" content="이번 주 공모주 청약과 배당락일을 한눈에. 매일 자동 갱신." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://maestro24.github.io/stockcal/" />
+  <meta property="og:image" content="https://maestro24.github.io/stockcal/assets/og-image.png" />
   <meta property="og:locale" content="ko_KR" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="주식달력 — 공모주 · 배당 캘린더" />
+  <meta name="twitter:description" content="이번 주 공모주 청약과 배당락일을 한눈에. 매일 자동 갱신." />
+  <meta name="twitter:image" content="https://maestro24.github.io/stockcal/assets/og-image.png" />
   <meta name="theme-color" content="#f8fafc" />
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><defs><linearGradient id='g' x1='0' y1='0' x2='0' y2='1'><stop offset='0' stop-color='%234F8DF7'/><stop offset='1' stop-color='%232456C4'/></linearGradient></defs><rect width='100' height='100' rx='18' fill='url(%23g)'/><rect x='20' y='30' width='60' height='50' rx='6' fill='white' opacity='.95'/><rect x='20' y='30' width='60' height='14' rx='6' fill='%23D4A72C'/><rect x='30' y='20' width='8' height='16' rx='3' fill='white'/><rect x='62' y='20' width='8' height='16' rx='3' fill='white'/><rect x='28' y='52' width='12' height='9' rx='2' fill='%234F8DF7'/><rect x='44' y='52' width='12' height='9' rx='2' fill='%23cbd5e1'/><rect x='60' y='52' width='12' height='9' rx='2' fill='%23cbd5e1'/><rect x='28' y='66' width='12' height='9' rx='2' fill='%23cbd5e1'/><rect x='44' y='66' width='12' height='9' rx='2' fill='%2343A047'/></svg>" />
   <script type="application/ld+json">
@@ -42,6 +47,37 @@
         "inLanguage": "ko",
         "offers": { "@type": "Offer", "price": "0", "priceCurrency": "KRW" },
         "description": "이번 주 공모주 청약 일정과 배당락일을 보여주는 무료 캘린더. 매일 자동 갱신."
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://maestro24.github.io/stockcal/#faq",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "공모주 청약 일정은 어디서 확인하나요?",
+            "acceptedAnswer": { "@type": "Answer", "text": "주식달력 홈에서 이번 주 공모주 청약 시작일·종료일·상장일과 공모가 밴드, 주관사를 한눈에 볼 수 있습니다. 월간 캘린더로 다가올 청약 일정도 미리 확인할 수 있으며, 데이터는 매일 06:30(KST)에 KRX KIND·DART 공시 기반으로 자동 갱신됩니다." }
+          },
+          {
+            "@type": "Question",
+            "name": "공모주 청약 증거금은 어떻게 계산하나요?",
+            "acceptedAnswer": { "@type": "Answer", "text": "청약 증거금 = 공모가 × 청약 수량 × 증거금률입니다. 국내 공모주 증거금률은 통상 50%입니다. 예를 들어 공모가 30,000원 종목에 10주를 청약하면 30,000 × 10 × 50% = 150,000원이 필요합니다. 균등배정 최소 청약 단위는 보통 10주입니다." }
+          },
+          {
+            "@type": "Question",
+            "name": "배당락일이 무엇인가요?",
+            "acceptedAnswer": { "@type": "Answer", "text": "배당락일은 배당을 받을 권리가 사라지는 날입니다. 배당을 받으려면 배당기준일까지 주식을 보유해야 하며, 배당락일에 매수하면 해당 분기·연도 배당을 받을 수 없습니다. 주식달력은 이번 주 배당락일과 지급일을 함께 보여줍니다." }
+          },
+          {
+            "@type": "Question",
+            "name": "배당 수익률은 어떻게 계산하나요?",
+            "acceptedAnswer": { "@type": "Answer", "text": "배당 수익률(%) = 연간 주당 배당금 ÷ 주가 × 100입니다. 주가 70,000원에 연 배당 3,500원이면 수익률은 5%입니다. 배당소득세 15.4%를 감안한 세후 수익률도 계산기에서 함께 확인할 수 있습니다." }
+          },
+          {
+            "@type": "Question",
+            "name": "주식달력은 무료인가요?",
+            "acceptedAnswer": { "@type": "Answer", "text": "네, 완전 무료이며 회원가입이나 설치가 필요 없습니다. 정보는 공시 자료 기반으로 자동 수집되어 오류·지연이 있을 수 있으므로 투자 판단의 책임은 투자자 본인에게 있습니다." }
+          }
+        ]
       }
     ]
   }
@@ -100,6 +136,32 @@
         </div>
         <div id="view-cal" class="calendar"></div>
         <div id="view-list" class="ipo-list hidden"></div>
+      </section>
+
+      <!-- 검색엔진·AI 크롤러용 정적 콘텐츠 (JS 미실행 환경에서도 읽힘) -->
+      <section class="seo-content" aria-label="주식달력 소개">
+        <h2>주식달력이란?</h2>
+        <p>주식달력은 국내 <strong>공모주(IPO) 청약 일정</strong>과 <strong>배당락일</strong>을 한눈에 보여주는 무료 웹 캘린더입니다. 이번 주 청약 시작일·종료일·상장일, 공모가 밴드, 주관사 정보와 배당락일·지급일을 카드와 월간 캘린더로 정리해 보여줍니다. 데이터는 매일 06:30(한국 시간)에 KRX KIND와 DART 전자공시 기반으로 자동 수집·갱신되며, 회원가입이나 설치 없이 브라우저에서 바로 사용할 수 있습니다.</p>
+
+        <h2>어떻게 사용하나요?</h2>
+        <ol>
+          <li>홈 상단의 <strong>이번 주 공모주</strong>·<strong>이번 주 배당락</strong> 카드에서 임박한 일정을 확인합니다.</li>
+          <li>월간 <strong>캘린더</strong>에서 청약(파랑)·상장(보라)·배당락(노랑) 일정을 색으로 구분해 봅니다.</li>
+          <li>‹ › 버튼으로 달을 이동하거나 <strong>리스트</strong> 보기로 전체 일정을 훑어봅니다.</li>
+          <li><a href="calc.html">청약 증거금 계산기</a>로 필요한 증거금과 배당 수익률을 바로 계산합니다.</li>
+        </ol>
+
+        <h2>자주 묻는 질문</h2>
+        <dl>
+          <dt>공모주 청약 증거금은 어떻게 계산하나요?</dt>
+          <dd>청약 증거금 = 공모가 × 청약 수량 × 증거금률입니다. 국내 공모주 증거금률은 통상 50%이며, 예를 들어 공모가 30,000원 종목에 10주를 청약하면 30,000 × 10 × 50% = 150,000원이 필요합니다. 균등배정 최소 청약 단위는 보통 10주입니다.</dd>
+          <dt>배당락일이 무엇인가요?</dt>
+          <dd>배당을 받을 권리가 사라지는 날입니다. 배당락일에 매수하면 해당 분기·연도 배당을 받을 수 없으므로, 배당을 노린다면 배당기준일까지 주식을 보유해야 합니다.</dd>
+          <dt>배당 수익률은 어떻게 계산하나요?</dt>
+          <dd>배당 수익률(%) = 연간 주당 배당금 ÷ 주가 × 100입니다. 주가 70,000원에 연 배당 3,500원이면 수익률은 5%이며, 배당소득세는 15.4%가 적용됩니다.</dd>
+          <dt>정보는 얼마나 정확한가요?</dt>
+          <dd>공시 자료 기반으로 자동 수집되어 오류·지연이 있을 수 있습니다. 투자 판단의 책임은 투자자 본인에게 있습니다.</dd>
+        </dl>
       </section>
     </main>
 
