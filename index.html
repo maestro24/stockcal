@@ -95,11 +95,27 @@
     </main>
 
 
-  <aside class="promo" data-coupang hidden>
-    <span class="promo-label">AD · 쿠팡 파트너스</span><br/>
-    <a href="__COUPANG_STOCKCAL__" target="_blank" rel="sponsored noopener">📚 공모주 투자 입문서 보러가기</a>
+  <aside class="promo" data-coupang>
+    <span class="promo-label">AD · 쿠팡 파트너스</span>
+    <div class="coupang-wrap">
+      <script src="https://ads-partners.coupang.com/g.js"></script>
+      <script>
+        new PartnersCoupang.G({ id: 1006093, template: "carousel", trackingCode: "AF8748009",
+          width: String(Math.min(680, document.documentElement.clientWidth - 48)), height: "140", tsource: "" });
+      </script>
+    </div>
     <p class="promo-disclosure">이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>
   </aside>
+    <script>
+      // 광고 미표시(차단기 등) 시 빈 카드 숨김
+      setTimeout(function () {
+        document.querySelectorAll('.promo[data-coupang]').forEach(function (el) {
+          var f = el.querySelector('iframe');
+          if (!f || f.getBoundingClientRect().height < 10) el.hidden = true;
+        });
+      }, 4000);
+    </script>
+
     <footer class="footer">
       <p>본 사이트의 정보는 공시 자료 기반으로 자동 수집되며 오류·지연이 있을 수 있습니다. 투자 판단의 책임은 투자자 본인에게 있습니다.</p>
       <p>출처: KRX KIND · DART 전자공시 | <a href="calc.html">청약 증거금 계산기</a></p>

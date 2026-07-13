@@ -289,3 +289,4 @@ a { color: var(--accent); text-decoration: none; }
 .promo-label { font-size: 0.68rem; color: var(--text-dim); font-weight: 800; letter-spacing: 0.05em; }
 .promo a { font-weight: 800; display: inline-block; margin: 4px 0; }
 .promo-disclosure { font-size: 0.72rem; color: var(--text-dim); margin-top: 6px; line-height: 1.5; }
+.coupang-wrap { display: flex; justify-content: center; margin: 8px 0; min-height: 140px; }
