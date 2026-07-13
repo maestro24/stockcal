@@ -1,11 +1,11 @@
-/* 주식달력 v1 — 금융 대시보드 톤, 다크 기본 */
+/* 주식달력 v1 — 금융 대시보드 톤, 라이트 전용 */
 :root {
-  --bg: #0f1115;
-  --bg-card: #171a21;
-  --bg-elev: #1f2430;
-  --text: #eef1f6;
-  --text-dim: #97a0af;
-  --border: #2a3040;
+  --bg: #f8fafc;
+  --bg-card: #ffffff;
+  --bg-elev: #eef2f7;
+  --text: #16181d;
+  --text-dim: #5d6675;
+  --border: #dde3ec;
   --accent: #4f8df7;
   --open: #34c179;      /* 청약 중 */
   --upcoming: #4f8df7;  /* 예정 */
@@ -13,15 +13,6 @@
   --div-ev: #e0a72e;    /* 배당락 */
   --danger: #e5604f;
   --radius: 12px;
-  --shadow: rgba(0, 0, 0, 0.4);
-}
-:root[data-theme='light'] {
-  --bg: #f8fafc;
-  --bg-card: #ffffff;
-  --bg-elev: #eef2f7;
-  --text: #16181d;
-  --text-dim: #5d6675;
-  --border: #dde3ec;
   --shadow: rgba(15, 23, 42, 0.12);
 }
 

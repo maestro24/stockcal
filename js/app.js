@@ -9,21 +9,6 @@ let viewMonth = monthKST();
 let ipoData = { updated: null, items: [] };
 let divData = { updated: null, items: [] };
 
-// ── 테마 ──
-const prefs = JSON.parse(localStorage.getItem('stockcal_prefs') || '{}');
-if (!prefs.theme) prefs.theme = window.matchMedia?.('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
-applyTheme();
-function applyTheme() {
-  document.documentElement.dataset.theme = prefs.theme;
-  const btn = document.getElementById('btn-theme');
-  if (btn) btn.textContent = prefs.theme === 'dark' ? '☀' : '☾';
-}
-document.getElementById('btn-theme')?.addEventListener('click', () => {
-  prefs.theme = prefs.theme === 'dark' ? 'light' : 'dark';
-  localStorage.setItem('stockcal_prefs', JSON.stringify(prefs));
-  applyTheme();
-});
-
 // ── 데이터 로드 (실패해도 앱은 뜬다) ──
 async function loadJSON(path, fallback) {
   try {

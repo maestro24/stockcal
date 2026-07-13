@@ -1,19 +1,6 @@
 // 계산기 페이지 바인딩
 import { subscriptionMargin, dividendYield, requiredInvestment, fmtKRW } from './calc.js';
 
-// 테마 (app.js와 동일 로직 최소화)
-const prefs = JSON.parse(localStorage.getItem('stockcal_prefs') || '{}');
-if (!prefs.theme) prefs.theme = window.matchMedia?.('(prefers-color-scheme: light)').matches ? 'light' : 'dark';
-document.documentElement.dataset.theme = prefs.theme;
-const $theme = document.getElementById('btn-theme');
-$theme.textContent = prefs.theme === 'dark' ? '☀' : '☾';
-$theme.addEventListener('click', () => {
-  prefs.theme = prefs.theme === 'dark' ? 'light' : 'dark';
-  localStorage.setItem('stockcal_prefs', JSON.stringify(prefs));
-  document.documentElement.dataset.theme = prefs.theme;
-  $theme.textContent = prefs.theme === 'dark' ? '☀' : '☾';
-});
-
 const $ = (id) => document.getElementById(id);
 const num = (id) => parseFloat($(id).value) || 0;
 
