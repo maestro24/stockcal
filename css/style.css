@@ -289,4 +289,11 @@ a { color: var(--accent); text-decoration: none; }
 .promo-label { font-size: 0.68rem; color: var(--text-dim); font-weight: 800; letter-spacing: 0.05em; }
 .promo a { font-weight: 800; display: inline-block; margin: 4px 0; }
 .promo-disclosure { font-size: 0.72rem; color: var(--text-dim); margin-top: 6px; line-height: 1.5; }
-.coupang-wrap { display: flex; justify-content: center; margin: 8px 0; min-height: 140px; }
+.coupang-wrap { display: flex; justify-content: center; margin: 8px 0; min-height: 140px; max-width: 100%; overflow-x: hidden; }
+
+/* ── 쿠팡 사이드 레일 (넓은 화면 전용) ── */
+.side-rail { position: fixed; top: 90px; width: 160px; display: none; z-index: 5; }
+@media (min-width: 1260px) { .side-rail { display: block; } }
+.side-l { left: calc(50% - 614px); }
+.side-r { left: calc(50% + 454px); }
+.fs-active .side-rail { display: none !important; }
