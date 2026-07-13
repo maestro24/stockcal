@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T12:33:01+09:00",
+  "updated": "2026-07-14T07:25:23+09:00",
   "source": "DART",
   "items": [
     {
@@ -83,14 +83,6 @@
       "market": "KOSPI"
     },
     {
-      "name": "오리온홀딩스",
-      "code": "001800",
-      "exDate": "2026-07-21",
-      "payDate": "2026-08-06",
-      "amount": 1750,
-      "market": "KOSPI"
-    },
-    {
       "name": "진양폴리우레탄",
       "code": "010640",
       "exDate": "2026-07-21",
@@ -136,6 +128,14 @@
       "exDate": "2026-07-31",
       "payDate": "2026-08-14",
       "amount": 450,
+      "market": "KOSPI"
+    },
+    {
+      "name": "기업은행",
+      "code": "024110",
+      "exDate": "2026-07-31",
+      "payDate": "2026-08-28",
+      "amount": 210,
       "market": "KOSPI"
     },
     {
