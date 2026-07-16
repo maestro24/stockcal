@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T21:09:20+09:00",
+  "updated": "2026-07-17T07:27:27+09:00",
   "source": "KRX KIND / DART",
   "items": [
     {
@@ -13,20 +13,6 @@
       "finalPrice": 15000,
       "underwriters": [
         "신영증권(주)"
-      ],
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "원일티엔아이",
-      "code": null,
-      "subStart": "2025-04-24",
-      "subEnd": "2025-04-25",
-      "listDate": "2025-05-09",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 13500,
-      "underwriters": [
-        "엔에이치투자증권(주)"
       ],
       "market": "KOSDAQ"
     },
@@ -1423,6 +1409,21 @@
       "finalPrice": 20700,
       "underwriters": [
         "KB증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "에이치엘지노믹스",
+      "code": null,
+      "subStart": "2026-07-13",
+      "subEnd": "2026-07-14",
+      "listDate": "2026-07-24",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 21500,
+      "underwriters": [
+        "KB증권(주)",
+        "IBK투자증권(주)"
       ],
       "market": "KOSDAQ"
     }

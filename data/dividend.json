@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-16T07:27:47+09:00",
+  "updated": "2026-07-17T07:28:11+09:00",
   "source": "DART",
   "items": [
+    {
+      "name": "KPX홀딩스",
+      "code": "092230",
+      "exDate": "2026-06-30",
+      "payDate": "2026-08-11",
+      "amount": 1628,
+      "market": "KOSPI"
+    },
     {
       "name": "KPX홀딩스",
       "code": "092230",
@@ -35,22 +43,6 @@
       "market": "KOSPI"
     },
     {
-      "name": "미원화학",
-      "code": "134380",
-      "exDate": "2026-06-30",
-      "payDate": "2026-07-24",
-      "amount": 250,
-      "market": "KOSPI"
-    },
-    {
-      "name": "셀로맥스사이언스",
-      "code": "471820",
-      "exDate": "2026-06-30",
-      "payDate": "2026-07-30",
-      "amount": 50,
-      "market": "KOSDAQ"
-    },
-    {
       "name": "유아이엘",
       "code": "049520",
       "exDate": "2026-06-30",
@@ -75,20 +67,20 @@
       "market": "KOSPI"
     },
     {
-      "name": "에이블씨엔씨",
-      "code": "078520",
-      "exDate": "2026-07-15",
-      "payDate": "2026-07-29",
-      "amount": 100,
-      "market": "KOSPI"
+      "name": "하이로닉",
+      "code": "149980",
+      "exDate": "2026-06-30",
+      "payDate": "2026-07-27",
+      "amount": 233,
+      "market": "KOSDAQ"
     },
     {
-      "name": "케이씨씨글라스",
-      "code": "344820",
-      "exDate": "2026-07-24",
-      "payDate": "2026-07-10",
-      "amount": 600,
-      "market": "KOSPI"
+      "name": "와이제이링크",
+      "code": "209640",
+      "exDate": "2026-07-07",
+      "payDate": "2026-07-29",
+      "amount": 50,
+      "market": "KOSDAQ"
     },
     {
       "name": "위드텍",
@@ -123,14 +115,6 @@
       "market": "KOSPI"
     },
     {
-      "name": "E1",
-      "code": "017940",
-      "exDate": "2026-07-31",
-      "payDate": "2026-08-14",
-      "amount": 450,
-      "market": "KOSPI"
-    },
-    {
       "name": "SK가스",
       "code": "018670",
       "exDate": "2026-07-31",
@@ -147,11 +131,27 @@
       "market": "KOSPI"
     },
     {
-      "name": "기업은행",
-      "code": "024110",
+      "name": "동아쏘시오홀딩스",
+      "code": "000640",
       "exDate": "2026-07-31",
-      "payDate": "2026-08-28",
-      "amount": 210,
+      "payDate": "2026-08-14",
+      "amount": 700,
+      "market": "KOSPI"
+    },
+    {
+      "name": "케이씨씨",
+      "code": "002380",
+      "exDate": "2026-07-31",
+      "payDate": "2026-08-31",
+      "amount": 1000,
+      "market": "KOSPI"
+    },
+    {
+      "name": "에이피알",
+      "code": "278470",
+      "exDate": "2026-08-03",
+      "payDate": "2026-08-31",
+      "amount": 2500,
       "market": "KOSPI"
     },
     {
