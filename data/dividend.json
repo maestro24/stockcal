@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T07:29:24+09:00",
+  "updated": "2026-07-22T07:25:37+09:00",
   "source": "DART",
   "items": [
     {
@@ -16,14 +16,6 @@
       "exDate": "2026-06-30",
       "payDate": "2026-08-11",
       "amount": 255,
-      "market": "KOSPI"
-    },
-    {
-      "name": "KPX홀딩스",
-      "code": "092230",
-      "exDate": "2026-06-30",
-      "payDate": "2026-08-11",
-      "amount": 2004,
       "market": "KOSPI"
     },
     {
@@ -72,30 +64,6 @@
       "exDate": "2026-06-30",
       "payDate": "2026-07-28",
       "amount": 180,
-      "market": "KOSPI"
-    },
-    {
-      "name": "유아이엘",
-      "code": "049520",
-      "exDate": "2026-06-30",
-      "payDate": "2026-07-24",
-      "amount": 150,
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "진양홀딩스",
-      "code": "100250",
-      "exDate": "2026-06-30",
-      "payDate": "2026-08-11",
-      "amount": 2004,
-      "market": "KOSPI"
-    },
-    {
-      "name": "진양홀딩스",
-      "code": "100250",
-      "exDate": "2026-06-30",
-      "payDate": "2026-08-11",
-      "amount": 255,
       "market": "KOSPI"
     },
     {
@@ -160,6 +128,38 @@
       "exDate": "2026-08-03",
       "payDate": "2026-08-31",
       "amount": 2500,
+      "market": "KOSPI"
+    },
+    {
+      "name": "AJ네트웍스",
+      "code": "095570",
+      "exDate": "2026-08-05",
+      "payDate": "2026-08-20",
+      "amount": 95,
+      "market": "KOSPI"
+    },
+    {
+      "name": "신풍",
+      "code": "002870",
+      "exDate": "2026-08-05",
+      "payDate": "2026-08-20",
+      "amount": 110,
+      "market": "KOSPI"
+    },
+    {
+      "name": "전진건설로봇",
+      "code": "079900",
+      "exDate": "2026-08-05",
+      "payDate": "2026-08-21",
+      "amount": 689,
+      "market": "KOSPI"
+    },
+    {
+      "name": "동서",
+      "code": "026960",
+      "exDate": "2026-08-31",
+      "payDate": "2026-09-18",
+      "amount": 250,
       "market": "KOSPI"
     }
   ]
