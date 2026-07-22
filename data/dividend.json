@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T07:25:37+09:00",
+  "updated": "2026-07-23T07:32:10+09:00",
   "source": "DART",
   "items": [
     {
@@ -8,14 +8,6 @@
       "exDate": "2026-06-30",
       "payDate": "2026-08-11",
       "amount": 1628,
-      "market": "KOSPI"
-    },
-    {
-      "name": "KPX홀딩스",
-      "code": "092230",
-      "exDate": "2026-06-30",
-      "payDate": "2026-08-11",
-      "amount": 255,
       "market": "KOSPI"
     },
     {
@@ -40,6 +32,14 @@
       "exDate": "2026-06-30",
       "payDate": "2026-07-15",
       "amount": 100,
+      "market": "KOSPI"
+    },
+    {
+      "name": "무학",
+      "code": "033920",
+      "exDate": "2026-06-30",
+      "payDate": "2026-07-22",
+      "amount": 160,
       "market": "KOSPI"
     },
     {
@@ -83,19 +83,19 @@
       "market": "KOSDAQ"
     },
     {
-      "name": "DN오토모티브",
-      "code": "007340",
-      "exDate": "2026-07-31",
-      "payDate": "2026-07-15",
-      "amount": 500,
+      "name": "동남합성",
+      "code": "023450",
+      "exDate": "2026-07-24",
+      "payDate": "2026-08-14",
+      "amount": 650,
       "market": "KOSPI"
     },
     {
-      "name": "SK가스",
-      "code": "018670",
-      "exDate": "2026-07-31",
+      "name": "미원홀딩스",
+      "code": "107590",
+      "exDate": "2026-07-24",
       "payDate": "2026-08-14",
-      "amount": 2000,
+      "amount": 650,
       "market": "KOSPI"
     },
     {
