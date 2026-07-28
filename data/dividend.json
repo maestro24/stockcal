@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T07:32:53+09:00",
+  "updated": "2026-07-29T07:31:53+09:00",
   "source": "DART",
   "items": [
     {
@@ -9,22 +9,6 @@
       "payDate": "2026-07-31",
       "amount": 2,
       "market": "KOSDAQ"
-    },
-    {
-      "name": "미원홀딩스",
-      "code": "107590",
-      "exDate": "2026-07-24",
-      "payDate": "2026-08-14",
-      "amount": 650,
-      "market": "KOSPI"
-    },
-    {
-      "name": "신한지주",
-      "code": "055550",
-      "exDate": "2026-07-30",
-      "payDate": "2026-08-28",
-      "amount": 740,
-      "market": "KOSPI"
     },
     {
       "name": "하나금융지주",
@@ -40,14 +24,6 @@
       "exDate": "2026-08-07",
       "payDate": "2026-08-27",
       "amount": 314,
-      "market": "KOSPI"
-    },
-    {
-      "name": "KB금융",
-      "code": "105560",
-      "exDate": "2026-08-07",
-      "payDate": "2026-07-23",
-      "amount": 1155,
       "market": "KOSPI"
     },
     {
@@ -67,27 +43,11 @@
       "market": "KOSPI"
     },
     {
-      "name": "그린케미칼",
-      "code": "083420",
-      "exDate": "2026-08-07",
-      "payDate": "2026-08-21",
-      "amount": 80,
-      "market": "KOSPI"
-    },
-    {
       "name": "두산",
       "code": "000150",
       "exDate": "2026-08-07",
       "payDate": "2026-08-25",
       "amount": 1000,
-      "market": "KOSPI"
-    },
-    {
-      "name": "두산밥캣",
-      "code": "241560",
-      "exDate": "2026-08-07",
-      "payDate": "2026-08-24",
-      "amount": 400,
       "market": "KOSPI"
     },
     {
@@ -139,27 +99,67 @@
       "market": "KOSPI"
     },
     {
-      "name": "SK",
-      "code": "034730",
-      "exDate": "2026-08-31",
-      "payDate": "2026-09-17",
-      "amount": 830,
+      "name": "BNK금융지주",
+      "code": "138930",
+      "exDate": "2026-08-12",
+      "payDate": "2026-08-27",
+      "amount": 150,
       "market": "KOSPI"
     },
     {
-      "name": "SK텔레콤",
-      "code": "017670",
-      "exDate": "2026-08-31",
-      "payDate": "2026-09-17",
-      "amount": 830,
+      "name": "HD현대일렉트릭",
+      "code": "267260",
+      "exDate": "2026-08-12",
+      "payDate": "2026-08-27",
+      "amount": 1300,
       "market": "KOSPI"
     },
     {
-      "name": "현대자동차",
-      "code": "005380",
+      "name": "스톰테크",
+      "code": "352090",
+      "exDate": "2026-08-12",
+      "payDate": "2026-08-25",
+      "amount": 110,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "HD한국조선해양",
+      "code": "009540",
+      "exDate": "2026-08-13",
+      "payDate": "2026-08-31",
+      "amount": 11000,
+      "market": "KOSPI"
+    },
+    {
+      "name": "HD현대",
+      "code": "267250",
+      "exDate": "2026-08-13",
+      "payDate": "2026-08-31",
+      "amount": 11000,
+      "market": "KOSPI"
+    },
+    {
+      "name": "스튜디오삼익",
+      "code": "415380",
+      "exDate": "2026-08-14",
+      "payDate": "2026-08-27",
+      "amount": 50,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "스튜디오삼익",
+      "code": "415380",
+      "exDate": "2026-08-14",
+      "payDate": "2026-08-27",
+      "amount": 50,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "명인제약",
+      "code": "317450",
       "exDate": "2026-08-31",
-      "payDate": "2026-09-30",
-      "amount": 2500,
+      "payDate": "2026-09-08",
+      "amount": 500,
       "market": "KOSPI"
     }
   ]
