@@ -1,21 +1,7 @@
 {
-  "updated": "2026-07-17T07:27:27+09:00",
+  "updated": "2026-07-31T07:33:24+09:00",
   "source": "KRX KIND / DART",
   "items": [
-    {
-      "name": "쎄크",
-      "code": null,
-      "subStart": "2025-04-17",
-      "subEnd": "2025-04-18",
-      "listDate": "2025-04-28",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 15000,
-      "underwriters": [
-        "신영증권(주)"
-      ],
-      "market": "KOSDAQ"
-    },
     {
       "name": "바이오비쥬",
       "code": null,
@@ -1424,6 +1410,20 @@
       "underwriters": [
         "KB증권(주)",
         "IBK투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "인제니아테라퓨틱스",
+      "code": null,
+      "subStart": "2026-07-30",
+      "subEnd": "2026-07-31",
+      "listDate": "2026-08-18",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": null,
+      "underwriters": [
+        "삼성증권(주)"
       ],
       "market": "KOSDAQ"
     }
