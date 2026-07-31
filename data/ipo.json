@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T07:33:24+09:00",
+  "updated": "2026-08-01T07:32:06+09:00",
   "source": "KRX KIND / DART",
   "items": [
     {
@@ -27,22 +27,6 @@
       "finalPrice": 66300,
       "underwriters": [
         "미래에셋증권 주식회사"
-      ],
-      "market": "KOSPI"
-    },
-    {
-      "name": "롯데글로벌로지스",
-      "code": null,
-      "subStart": "2025-05-12",
-      "subEnd": "2025-05-13",
-      "listDate": "2025-05-21",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": null,
-      "underwriters": [
-        "한국투자증권(주)",
-        "삼성증권(주)",
-        "KB증권(주)"
       ],
       "market": "KOSPI"
     },
@@ -1424,6 +1408,20 @@
       "finalPrice": null,
       "underwriters": [
         "삼성증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "케이앤에스아이앤씨",
+      "code": null,
+      "subStart": "2026-08-04",
+      "subEnd": "2026-08-05",
+      "listDate": "2026-08-13",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": null,
+      "underwriters": [
+        "IBK투자증권(주)"
       ],
       "market": "KOSDAQ"
     }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T07:33:51+09:00",
+  "updated": "2026-08-01T07:33:02+09:00",
   "source": "DART",
   "items": [
     {
@@ -11,19 +11,19 @@
       "market": "KOSPI"
     },
     {
-      "name": "BNK금융지주",
-      "code": "138930",
-      "exDate": "2026-08-12",
-      "payDate": "2026-08-27",
-      "amount": 150,
-      "market": "KOSPI"
+      "name": "인탑스",
+      "code": "049070",
+      "exDate": "2026-06-30",
+      "payDate": "2026-08-26",
+      "amount": 70,
+      "market": "KOSDAQ"
     },
     {
-      "name": "HD현대일렉트릭",
-      "code": "267260",
-      "exDate": "2026-08-12",
-      "payDate": "2026-08-27",
-      "amount": 1300,
+      "name": "효성 ITX",
+      "code": "094280",
+      "exDate": "2026-06-30",
+      "payDate": "2026-08-07",
+      "amount": 150,
       "market": "KOSPI"
     },
     {
@@ -43,14 +43,6 @@
       "market": "KOSPI"
     },
     {
-      "name": "HD한국조선해양",
-      "code": "009540",
-      "exDate": "2026-08-13",
-      "payDate": "2026-08-31",
-      "amount": 11000,
-      "market": "KOSPI"
-    },
-    {
       "name": "HD현대",
       "code": "267250",
       "exDate": "2026-08-13",
@@ -64,14 +56,6 @@
       "exDate": "2026-08-13",
       "payDate": "2026-09-01",
       "amount": 6500,
-      "market": "KOSPI"
-    },
-    {
-      "name": "HD현대",
-      "code": "267250",
-      "exDate": "2026-08-13",
-      "payDate": "2026-08-31",
-      "amount": 11000,
       "market": "KOSPI"
     },
     {
@@ -131,14 +115,6 @@
       "market": "KOSDAQ"
     },
     {
-      "name": "스튜디오삼익",
-      "code": "415380",
-      "exDate": "2026-08-14",
-      "payDate": "2026-08-27",
-      "amount": 50,
-      "market": "KOSDAQ"
-    },
-    {
       "name": "워트",
       "code": "396470",
       "exDate": "2026-08-14",
@@ -155,12 +131,36 @@
       "market": "KOSDAQ"
     },
     {
+      "name": "덕양에너젠",
+      "code": "0001A0",
+      "exDate": "2026-08-18",
+      "payDate": "2026-08-31",
+      "amount": 23,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "포스코인터내셔널",
+      "code": "047050",
+      "exDate": "2026-08-18",
+      "payDate": "2026-09-03",
+      "amount": 1480,
+      "market": "KOSPI"
+    },
+    {
       "name": "명인제약",
       "code": "317450",
       "exDate": "2026-08-31",
       "payDate": "2026-09-08",
       "amount": 500,
       "market": "KOSPI"
+    },
+    {
+      "name": "티쓰리",
+      "code": "204610",
+      "exDate": "2026-08-31",
+      "payDate": "2026-09-18",
+      "amount": 40,
+      "market": "KOSDAQ"
     }
   ]
 }
