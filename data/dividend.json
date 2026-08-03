@@ -1,13 +1,29 @@
 {
-  "updated": "2026-08-01T07:33:02+09:00",
+  "updated": "2026-08-04T07:33:31+09:00",
   "source": "DART",
   "items": [
+    {
+      "name": "고려신용정보",
+      "code": "049720",
+      "exDate": "2026-06-30",
+      "payDate": "2026-08-12",
+      "amount": 250,
+      "market": "KOSDAQ"
+    },
     {
       "name": "삼성전자",
       "code": "005930",
       "exDate": "2026-06-30",
       "payDate": "2026-08-28",
       "amount": 374,
+      "market": "KOSPI"
+    },
+    {
+      "name": "삼화왕관",
+      "code": "004450",
+      "exDate": "2026-06-30",
+      "payDate": "2026-08-10",
+      "amount": 500,
       "market": "KOSPI"
     },
     {
@@ -32,14 +48,6 @@
       "exDate": "2026-08-13",
       "payDate": "2026-08-31",
       "amount": 6090,
-      "market": "KOSPI"
-    },
-    {
-      "name": "HD한국조선해양",
-      "code": "009540",
-      "exDate": "2026-08-13",
-      "payDate": "2026-09-01",
-      "amount": 6500,
       "market": "KOSPI"
     },
     {
@@ -107,14 +115,6 @@
       "market": "KOSPI"
     },
     {
-      "name": "스튜디오삼익",
-      "code": "415380",
-      "exDate": "2026-08-14",
-      "payDate": "2026-08-27",
-      "amount": 50,
-      "market": "KOSDAQ"
-    },
-    {
       "name": "워트",
       "code": "396470",
       "exDate": "2026-08-14",
@@ -131,6 +131,14 @@
       "market": "KOSDAQ"
     },
     {
+      "name": "SK",
+      "code": "034730",
+      "exDate": "2026-08-18",
+      "payDate": "2026-08-31",
+      "amount": 1500,
+      "market": "KOSPI"
+    },
+    {
       "name": "덕양에너젠",
       "code": "0001A0",
       "exDate": "2026-08-18",
@@ -144,14 +152,6 @@
       "exDate": "2026-08-18",
       "payDate": "2026-09-03",
       "amount": 1480,
-      "market": "KOSPI"
-    },
-    {
-      "name": "명인제약",
-      "code": "317450",
-      "exDate": "2026-08-31",
-      "payDate": "2026-09-08",
-      "amount": 500,
       "market": "KOSPI"
     },
     {
