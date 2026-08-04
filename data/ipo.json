@@ -1,21 +1,7 @@
 {
-  "updated": "2026-08-04T07:32:36+09:00",
+  "updated": "2026-08-05T07:33:42+09:00",
   "source": "KRX KIND / DART",
   "items": [
-    {
-      "name": "바이오비쥬",
-      "code": null,
-      "subStart": "2025-05-08",
-      "subEnd": "2025-05-09",
-      "listDate": "2025-05-20",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 9100,
-      "underwriters": [
-        "대신증권(주)"
-      ],
-      "market": "KOSDAQ"
-    },
     {
       "name": "달바글로벌",
       "code": null,
@@ -1412,6 +1398,20 @@
       "market": "KOSDAQ"
     },
     {
+      "name": "딜리셔스",
+      "code": null,
+      "subStart": "2026-08-03",
+      "subEnd": "2026-08-04",
+      "listDate": "2026-08-12",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": null,
+      "underwriters": [
+        "한국투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
       "name": "케이앤에스아이앤씨",
       "code": null,
       "subStart": "2026-08-04",
@@ -1419,7 +1419,7 @@
       "listDate": "2026-08-13",
       "priceBandLow": null,
       "priceBandHigh": null,
-      "finalPrice": null,
+      "finalPrice": 11000,
       "underwriters": [
         "IBK투자증권(주)"
       ],
