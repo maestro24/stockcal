@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T07:34:34+09:00",
+  "updated": "2026-08-06T07:33:53+09:00",
   "source": "DART",
   "items": [
     {
@@ -11,12 +11,12 @@
       "market": "KOSDAQ"
     },
     {
-      "name": "삼성전자",
-      "code": "005930",
+      "name": "대화제약",
+      "code": "067080",
       "exDate": "2026-06-30",
-      "payDate": "2026-08-28",
-      "amount": 374,
-      "market": "KOSPI"
+      "payDate": "2026-08-26",
+      "amount": 50,
+      "market": "KOSDAQ"
     },
     {
       "name": "삼화왕관",
@@ -40,54 +40,6 @@
       "exDate": "2026-06-30",
       "payDate": "2026-08-07",
       "amount": 150,
-      "market": "KOSPI"
-    },
-    {
-      "name": "HD현대",
-      "code": "267250",
-      "exDate": "2026-08-13",
-      "payDate": "2026-09-04",
-      "amount": 1300,
-      "market": "KOSPI"
-    },
-    {
-      "name": "LG",
-      "code": "003550",
-      "exDate": "2026-08-13",
-      "payDate": "2026-08-28",
-      "amount": 270,
-      "market": "KOSPI"
-    },
-    {
-      "name": "LG",
-      "code": "003550",
-      "exDate": "2026-08-13",
-      "payDate": "2026-08-28",
-      "amount": 500,
-      "market": "KOSPI"
-    },
-    {
-      "name": "LG유플러스",
-      "code": "032640",
-      "exDate": "2026-08-13",
-      "payDate": "2026-08-28",
-      "amount": 270,
-      "market": "KOSPI"
-    },
-    {
-      "name": "LG전자",
-      "code": "066570",
-      "exDate": "2026-08-13",
-      "payDate": "2026-08-28",
-      "amount": 500,
-      "market": "KOSPI"
-    },
-    {
-      "name": "LG생활건강",
-      "code": "051900",
-      "exDate": "2026-08-14",
-      "payDate": "2026-08-28",
-      "amount": 1500,
       "market": "KOSPI"
     },
     {
@@ -131,6 +83,22 @@
       "market": "KOSPI"
     },
     {
+      "name": "LG씨엔에스",
+      "code": "064400",
+      "exDate": "2026-08-20",
+      "payDate": "2026-09-04",
+      "amount": 750,
+      "market": "KOSPI"
+    },
+    {
+      "name": "고려아연",
+      "code": "010130",
+      "exDate": "2026-08-20",
+      "payDate": "2026-09-04",
+      "amount": 5000,
+      "market": "KOSPI"
+    },
+    {
       "name": "티쓰리",
       "code": "204610",
       "exDate": "2026-08-31",
@@ -139,11 +107,43 @@
       "market": "KOSDAQ"
     },
     {
+      "name": "한솔제지",
+      "code": "213500",
+      "exDate": "2026-09-30",
+      "payDate": "2026-10-23",
+      "amount": 200,
+      "market": "KOSPI"
+    },
+    {
+      "name": "한솔홀딩스",
+      "code": "004150",
+      "exDate": "2026-09-30",
+      "payDate": "2026-10-23",
+      "amount": 200,
+      "market": "KOSPI"
+    },
+    {
       "name": "현대그린푸드",
       "code": "453340",
       "exDate": "2026-09-30",
       "payDate": "2026-10-30",
       "amount": 314,
+      "market": "KOSPI"
+    },
+    {
+      "name": "현대백화점",
+      "code": "069960",
+      "exDate": "2026-09-30",
+      "payDate": "2026-10-30",
+      "amount": 500,
+      "market": "KOSPI"
+    },
+    {
+      "name": "현대지에프홀딩스",
+      "code": "005440",
+      "exDate": "2026-09-30",
+      "payDate": "2026-10-30",
+      "amount": 500,
       "market": "KOSPI"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T07:33:42+09:00",
+  "updated": "2026-08-06T07:32:57+09:00",
   "source": "KRX KIND / DART",
   "items": [
     {
@@ -1405,7 +1405,7 @@
       "listDate": "2026-08-12",
       "priceBandLow": null,
       "priceBandHigh": null,
-      "finalPrice": null,
+      "finalPrice": 7000,
       "underwriters": [
         "한국투자증권(주)"
       ],
