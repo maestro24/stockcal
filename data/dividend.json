@@ -1,15 +1,7 @@
 {
-  "updated": "2026-08-06T07:33:53+09:00",
+  "updated": "2026-08-07T10:03:52+09:00",
   "source": "DART",
   "items": [
-    {
-      "name": "고려신용정보",
-      "code": "049720",
-      "exDate": "2026-06-30",
-      "payDate": "2026-08-12",
-      "amount": 250,
-      "market": "KOSDAQ"
-    },
     {
       "name": "대화제약",
       "code": "067080",
@@ -19,67 +11,35 @@
       "market": "KOSDAQ"
     },
     {
-      "name": "삼화왕관",
-      "code": "004450",
+      "name": "동국제강",
+      "code": "460860",
       "exDate": "2026-06-30",
-      "payDate": "2026-08-10",
-      "amount": 500,
+      "payDate": "2026-09-04",
+      "amount": 200,
       "market": "KOSPI"
     },
     {
-      "name": "인탑스",
-      "code": "049070",
+      "name": "동국홀딩스",
+      "code": "001230",
       "exDate": "2026-06-30",
-      "payDate": "2026-08-26",
-      "amount": 70,
-      "market": "KOSDAQ"
+      "payDate": "2026-09-04",
+      "amount": 200,
+      "market": "KOSPI"
     },
     {
-      "name": "효성 ITX",
-      "code": "094280",
+      "name": "아이마켓코리아",
+      "code": "122900",
       "exDate": "2026-06-30",
-      "payDate": "2026-08-07",
+      "payDate": "2026-08-06",
       "amount": 150,
       "market": "KOSPI"
     },
     {
-      "name": "워트",
-      "code": "396470",
-      "exDate": "2026-08-14",
-      "payDate": "2026-08-28",
-      "amount": 200,
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "플랜티넷",
-      "code": "075130",
-      "exDate": "2026-08-14",
-      "payDate": "2026-08-27",
-      "amount": 100,
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "SK",
-      "code": "034730",
-      "exDate": "2026-08-18",
-      "payDate": "2026-08-31",
-      "amount": 1500,
-      "market": "KOSPI"
-    },
-    {
-      "name": "덕양에너젠",
-      "code": "0001A0",
-      "exDate": "2026-08-18",
-      "payDate": "2026-08-31",
-      "amount": 23,
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "포스코인터내셔널",
-      "code": "047050",
-      "exDate": "2026-08-18",
-      "payDate": "2026-09-03",
-      "amount": 1480,
+      "name": "메리츠금융지주",
+      "code": "138040",
+      "exDate": "2026-08-05",
+      "payDate": "2026-08-05",
+      "amount": 2377,
       "market": "KOSPI"
     },
     {
@@ -99,12 +59,60 @@
       "market": "KOSPI"
     },
     {
-      "name": "티쓰리",
-      "code": "204610",
-      "exDate": "2026-08-31",
-      "payDate": "2026-09-18",
-      "amount": 40,
+      "name": "웹젠",
+      "code": "069080",
+      "exDate": "2026-08-21",
+      "payDate": "2026-09-02",
+      "amount": 590,
       "market": "KOSDAQ"
+    },
+    {
+      "name": "케이티앤지",
+      "code": "033780",
+      "exDate": "2026-08-21",
+      "payDate": "2026-09-07",
+      "amount": 2000,
+      "market": "KOSPI"
+    },
+    {
+      "name": "코오롱",
+      "code": "002020",
+      "exDate": "2026-08-21",
+      "payDate": "2026-09-04",
+      "amount": 900,
+      "market": "KOSPI"
+    },
+    {
+      "name": "코오롱인더",
+      "code": "120110",
+      "exDate": "2026-08-21",
+      "payDate": "2026-09-04",
+      "amount": 900,
+      "market": "KOSPI"
+    },
+    {
+      "name": "티엘비",
+      "code": "356860",
+      "exDate": "2026-08-21",
+      "payDate": "2026-09-10",
+      "amount": 200,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "한국앤컴퍼니",
+      "code": "000240",
+      "exDate": "2026-08-21",
+      "payDate": "2026-08-06",
+      "amount": 330,
+      "market": "KOSPI"
+    },
+    {
+      "name": "명인제약",
+      "code": "317450",
+      "exDate": "2026-08-31",
+      "payDate": "2026-09-08",
+      "amount": 500,
+      "market": "KOSPI"
     },
     {
       "name": "한솔제지",
@@ -120,14 +128,6 @@
       "exDate": "2026-09-30",
       "payDate": "2026-10-23",
       "amount": 200,
-      "market": "KOSPI"
-    },
-    {
-      "name": "현대그린푸드",
-      "code": "453340",
-      "exDate": "2026-09-30",
-      "payDate": "2026-10-30",
-      "amount": 314,
       "market": "KOSPI"
     },
     {
