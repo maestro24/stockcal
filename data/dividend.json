@@ -1,15 +1,7 @@
 {
-  "updated": "2026-08-07T10:03:52+09:00",
+  "updated": "2026-08-08T07:04:06+09:00",
   "source": "DART",
   "items": [
-    {
-      "name": "대화제약",
-      "code": "067080",
-      "exDate": "2026-06-30",
-      "payDate": "2026-08-26",
-      "amount": 50,
-      "market": "KOSDAQ"
-    },
     {
       "name": "동국제강",
       "code": "460860",
@@ -33,6 +25,14 @@
       "payDate": "2026-08-06",
       "amount": 150,
       "market": "KOSPI"
+    },
+    {
+      "name": "아이스크림미디어",
+      "code": "461300",
+      "exDate": "2026-06-30",
+      "payDate": "2026-08-25",
+      "amount": 1083,
+      "market": "KOSDAQ"
     },
     {
       "name": "메리츠금융지주",
@@ -107,6 +107,30 @@
       "market": "KOSPI"
     },
     {
+      "name": "POSCO홀딩스",
+      "code": "005490",
+      "exDate": "2026-08-24",
+      "payDate": "2026-09-07",
+      "amount": 2000,
+      "market": "KOSPI"
+    },
+    {
+      "name": "SK스퀘어",
+      "code": "402340",
+      "exDate": "2026-08-31",
+      "payDate": "2026-08-07",
+      "amount": 375,
+      "market": "KOSPI"
+    },
+    {
+      "name": "SK하이닉스",
+      "code": "000660",
+      "exDate": "2026-08-31",
+      "payDate": "2026-08-07",
+      "amount": 375,
+      "market": "KOSPI"
+    },
+    {
       "name": "명인제약",
       "code": "317450",
       "exDate": "2026-08-31",
@@ -115,11 +139,11 @@
       "market": "KOSPI"
     },
     {
-      "name": "한솔제지",
-      "code": "213500",
-      "exDate": "2026-09-30",
-      "payDate": "2026-10-23",
-      "amount": 200,
+      "name": "코웨이",
+      "code": "021240",
+      "exDate": "2026-08-31",
+      "payDate": "2026-08-07",
+      "amount": 700,
       "market": "KOSPI"
     },
     {
@@ -131,27 +155,11 @@
       "market": "KOSPI"
     },
     {
-      "name": "현대백화점",
-      "code": "069960",
-      "exDate": "2026-09-30",
-      "payDate": "2026-10-30",
-      "amount": 500,
-      "market": "KOSPI"
-    },
-    {
       "name": "현대지에프홀딩스",
       "code": "005440",
       "exDate": "2026-09-30",
       "payDate": "2026-10-30",
-      "amount": 500,
-      "market": "KOSPI"
-    },
-    {
-      "name": "현대지에프홀딩스",
-      "code": "005440",
-      "exDate": "2026-09-30",
-      "payDate": "2026-10-30",
-      "amount": 314,
+      "amount": 65,
       "market": "KOSPI"
     }
   ]
