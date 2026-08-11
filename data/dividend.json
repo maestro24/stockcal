@@ -1,85 +1,13 @@
 {
-  "updated": "2026-08-11T07:05:33+09:00",
+  "updated": "2026-08-12T07:10:25+09:00",
   "source": "DART",
   "items": [
     {
-      "name": "아이마켓코리아",
-      "code": "122900",
-      "exDate": "2026-06-30",
-      "payDate": "2026-08-06",
-      "amount": 150,
-      "market": "KOSPI"
-    },
-    {
-      "name": "아이스크림미디어",
-      "code": "461300",
-      "exDate": "2026-06-30",
-      "payDate": "2026-08-25",
-      "amount": 1083,
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "메리츠금융지주",
-      "code": "138040",
-      "exDate": "2026-08-05",
-      "payDate": "2026-08-05",
-      "amount": 2377,
-      "market": "KOSPI"
-    },
-    {
-      "name": "웹젠",
-      "code": "069080",
-      "exDate": "2026-08-21",
-      "payDate": "2026-09-02",
-      "amount": 590,
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "케이티앤지",
-      "code": "033780",
-      "exDate": "2026-08-21",
-      "payDate": "2026-09-07",
-      "amount": 2000,
-      "market": "KOSPI"
-    },
-    {
-      "name": "코오롱",
-      "code": "002020",
-      "exDate": "2026-08-21",
-      "payDate": "2026-09-04",
-      "amount": 900,
-      "market": "KOSPI"
-    },
-    {
-      "name": "코오롱인더",
-      "code": "120110",
-      "exDate": "2026-08-21",
-      "payDate": "2026-09-04",
-      "amount": 900,
-      "market": "KOSPI"
-    },
-    {
-      "name": "티엘비",
-      "code": "356860",
-      "exDate": "2026-08-21",
-      "payDate": "2026-09-10",
-      "amount": 200,
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "한국앤컴퍼니",
-      "code": "000240",
-      "exDate": "2026-08-21",
-      "payDate": "2026-08-06",
-      "amount": 330,
-      "market": "KOSPI"
-    },
-    {
-      "name": "POSCO홀딩스",
-      "code": "005490",
-      "exDate": "2026-08-24",
-      "payDate": "2026-09-07",
-      "amount": 2000,
+      "name": "S-Oil",
+      "code": "010950",
+      "exDate": "2026-08-25",
+      "payDate": "2026-09-15",
+      "amount": 800,
       "market": "KOSPI"
     },
     {
@@ -107,11 +35,35 @@
       "market": "KOSPI"
     },
     {
+      "name": "서울보증보험",
+      "code": "031210",
+      "exDate": "2026-08-26",
+      "payDate": "2026-09-10",
+      "amount": 430,
+      "market": "KOSPI"
+    },
+    {
+      "name": "GKL",
+      "code": "114090",
+      "exDate": "2026-08-27",
+      "payDate": "2026-09-10",
+      "amount": 60,
+      "market": "KOSPI"
+    },
+    {
       "name": "교촌에프앤비",
       "code": "339770",
       "exDate": "2026-08-27",
       "payDate": "2026-08-10",
       "amount": 60,
+      "market": "KOSPI"
+    },
+    {
+      "name": "영원무역",
+      "code": "111770",
+      "exDate": "2026-08-28",
+      "payDate": "2026-09-18",
+      "amount": 1050,
       "market": "KOSPI"
     },
     {
@@ -147,6 +99,14 @@
       "market": "KOSPI"
     },
     {
+      "name": "신세계",
+      "code": "004170",
+      "exDate": "2026-08-31",
+      "payDate": "2026-09-18",
+      "amount": 1300,
+      "market": "KOSPI"
+    },
+    {
       "name": "코웨이",
       "code": "021240",
       "exDate": "2026-08-31",
@@ -155,11 +115,51 @@
       "market": "KOSPI"
     },
     {
-      "name": "현대지에프홀딩스",
-      "code": "005440",
-      "exDate": "2026-09-30",
-      "payDate": "2026-10-30",
-      "amount": 65,
+      "name": "휴메딕스",
+      "code": "200670",
+      "exDate": "2026-08-31",
+      "payDate": "2026-09-16",
+      "amount": 200,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "휴온스",
+      "code": "243070",
+      "exDate": "2026-08-31",
+      "payDate": "2026-09-16",
+      "amount": 200,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "휴온스글로벌",
+      "code": "084110",
+      "exDate": "2026-08-31",
+      "payDate": "2026-09-16",
+      "amount": 200,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "휴온스글로벌",
+      "code": "084110",
+      "exDate": "2026-08-31",
+      "payDate": "2026-09-17",
+      "amount": 400,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "코오롱",
+      "code": "002020",
+      "exDate": "2026-09-04",
+      "payDate": "2026-09-18",
+      "amount": 200,
+      "market": "KOSPI"
+    },
+    {
+      "name": "코오롱글로벌",
+      "code": "003070",
+      "exDate": "2026-09-04",
+      "payDate": "2026-09-18",
+      "amount": 200,
       "market": "KOSPI"
     }
   ]
