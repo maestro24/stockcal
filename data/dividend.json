@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T07:09:07+09:00",
+  "updated": "2026-08-15T06:47:05+09:00",
   "source": "DART",
   "items": [
     {
@@ -11,43 +11,51 @@
       "market": "KOSDAQ"
     },
     {
-      "name": "SNT홀딩스",
-      "code": "036530",
-      "exDate": "2026-06-30",
-      "payDate": "2026-08-12",
-      "amount": 300,
-      "market": "KOSPI"
-    },
-    {
-      "name": "SNT홀딩스",
-      "code": "036530",
-      "exDate": "2026-06-30",
-      "payDate": "2026-08-12",
-      "amount": 400,
-      "market": "KOSPI"
-    },
-    {
-      "name": "SNT홀딩스",
-      "code": "036530",
-      "exDate": "2026-06-30",
-      "payDate": "2026-08-12",
-      "amount": 400,
-      "market": "KOSPI"
-    },
-    {
-      "name": "서호전기",
-      "code": "065710",
-      "exDate": "2026-06-30",
-      "payDate": "2026-09-11",
-      "amount": 2000,
-      "market": "KOSDAQ"
-    },
-    {
       "name": "씨젠",
       "code": "096530",
       "exDate": "2026-06-30",
       "payDate": "2026-08-21",
       "amount": 300,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "유니테크노",
+      "code": "241690",
+      "exDate": "2026-06-30",
+      "payDate": "2026-09-14",
+      "amount": 23,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "이엘피",
+      "code": "063760",
+      "exDate": "2026-06-30",
+      "payDate": "2026-09-11",
+      "amount": 40,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "지에스이",
+      "code": "053050",
+      "exDate": "2026-06-30",
+      "payDate": "2026-08-25",
+      "amount": 20,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "케이카",
+      "code": "381970",
+      "exDate": "2026-06-30",
+      "payDate": "2026-08-27",
+      "amount": 50,
+      "market": "KOSPI"
+    },
+    {
+      "name": "효성오앤비",
+      "code": "097870",
+      "exDate": "2026-06-30",
+      "payDate": "2026-10-14",
+      "amount": 200,
       "market": "KOSDAQ"
     },
     {
@@ -75,26 +83,18 @@
       "market": "KOSDAQ"
     },
     {
+      "name": "콜마비앤에이치",
+      "code": "200130",
+      "exDate": "2026-08-26",
+      "payDate": "2026-08-12",
+      "amount": 60,
+      "market": "KOSDAQ"
+    },
+    {
       "name": "HS애드",
       "code": "035000",
       "exDate": "2026-08-27",
       "payDate": "2026-09-11",
-      "amount": 300,
-      "market": "KOSPI"
-    },
-    {
-      "name": "동원산업",
-      "code": "006040",
-      "exDate": "2026-08-27",
-      "payDate": "2026-09-09",
-      "amount": 300,
-      "market": "KOSPI"
-    },
-    {
-      "name": "동원시스템즈",
-      "code": "014820",
-      "exDate": "2026-08-27",
-      "payDate": "2026-09-09",
       "amount": 300,
       "market": "KOSPI"
     },
@@ -115,20 +115,28 @@
       "market": "KOSPI"
     },
     {
-      "name": "TYM",
-      "code": "002900",
-      "exDate": "2026-08-28",
-      "payDate": "2026-08-12",
-      "amount": 120,
-      "market": "KOSPI"
-    },
-    {
       "name": "아이패밀리에스씨",
       "code": "114840",
       "exDate": "2026-08-28",
       "payDate": "2026-09-14",
       "amount": 111,
       "market": "KOSDAQ"
+    },
+    {
+      "name": "SK네트웍스",
+      "code": "001740",
+      "exDate": "2026-08-31",
+      "payDate": "2026-09-11",
+      "amount": 70,
+      "market": "KOSPI"
+    },
+    {
+      "name": "광주신세계",
+      "code": "037710",
+      "exDate": "2026-08-31",
+      "payDate": "2026-09-18",
+      "amount": 600,
+      "market": "KOSPI"
     },
     {
       "name": "까뮤이앤씨",
@@ -144,14 +152,6 @@
       "exDate": "2026-08-31",
       "payDate": "2025-09-11",
       "amount": 600,
-      "market": "KOSPI"
-    },
-    {
-      "name": "한국단자공업",
-      "code": "025540",
-      "exDate": "2026-08-31",
-      "payDate": "2026-09-11",
-      "amount": 1000,
       "market": "KOSPI"
     },
     {
