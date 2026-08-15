@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T07:08:40+09:00",
+  "updated": "2026-08-16T06:41:39+09:00",
   "source": "KRX KIND / DART",
   "items": [
     {
@@ -15,20 +15,6 @@
         "미래에셋증권 주식회사"
       ],
       "market": "KOSPI"
-    },
-    {
-      "name": "지씨지놈",
-      "code": null,
-      "subStart": "2025-05-29",
-      "subEnd": "2025-05-30",
-      "listDate": "2025-06-11",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 10500,
-      "underwriters": [
-        "삼성증권(주)"
-      ],
-      "market": "KOSDAQ"
     },
     {
       "name": "지에프씨생명과학",
@@ -1408,6 +1394,20 @@
       "finalPrice": 41200,
       "underwriters": [
         "삼성증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "해치텍",
+      "code": null,
+      "subStart": "2026-08-12",
+      "subEnd": "2026-08-13",
+      "listDate": "2026-08-25",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 23000,
+      "underwriters": [
+        "DB증권주식회사"
       ],
       "market": "KOSDAQ"
     },
