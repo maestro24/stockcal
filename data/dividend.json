@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T06:45:02+09:00",
+  "updated": "2026-08-20T06:47:52+09:00",
   "source": "DART",
   "items": [
     {
@@ -11,19 +11,19 @@
       "market": "KOSPI"
     },
     {
-      "name": "SFA",
-      "code": "056190",
-      "exDate": "2026-06-30",
-      "payDate": "2026-08-28",
-      "amount": 365,
-      "market": "KOSDAQ"
-    },
-    {
       "name": "씨젠",
       "code": "096530",
       "exDate": "2026-06-30",
       "payDate": "2026-08-21",
       "amount": 300,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "양지사",
+      "code": "030960",
+      "exDate": "2026-06-30",
+      "payDate": "2026-10-15",
+      "amount": 50,
       "market": "KOSDAQ"
     },
     {
