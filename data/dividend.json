@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T06:47:52+09:00",
+  "updated": "2026-08-21T06:51:29+09:00",
   "source": "DART",
   "items": [
     {
@@ -9,14 +9,6 @@
       "payDate": "2026-09-10",
       "amount": 687,
       "market": "KOSPI"
-    },
-    {
-      "name": "씨젠",
-      "code": "096530",
-      "exDate": "2026-06-30",
-      "payDate": "2026-08-21",
-      "amount": 300,
-      "market": "KOSDAQ"
     },
     {
       "name": "양지사",
@@ -67,11 +59,11 @@
       "market": "KOSDAQ"
     },
     {
-      "name": "콜마비앤에이치",
-      "code": "200130",
-      "exDate": "2026-08-26",
-      "payDate": "2026-08-12",
-      "amount": 60,
+      "name": "매드업",
+      "code": "0039P0",
+      "exDate": "2026-07-31",
+      "payDate": "2026-08-21",
+      "amount": 54,
       "market": "KOSDAQ"
     },
     {
@@ -81,22 +73,6 @@
       "payDate": "2026-08-12",
       "amount": 60,
       "market": "KOSDAQ"
-    },
-    {
-      "name": "HS애드",
-      "code": "035000",
-      "exDate": "2026-08-27",
-      "payDate": "2026-09-11",
-      "amount": 300,
-      "market": "KOSPI"
-    },
-    {
-      "name": "삼양식품",
-      "code": "003230",
-      "exDate": "2026-08-27",
-      "payDate": "2026-08-12",
-      "amount": 3200,
-      "market": "KOSPI"
     },
     {
       "name": "TYM",
@@ -139,14 +115,6 @@
       "market": "KOSPI"
     },
     {
-      "name": "동원산업",
-      "code": "006040",
-      "exDate": "2026-08-31",
-      "payDate": "2025-09-11",
-      "amount": 600,
-      "market": "KOSPI"
-    },
-    {
       "name": "현대엘리베이터",
       "code": "017800",
       "exDate": "2026-08-31",
@@ -160,6 +128,22 @@
       "exDate": "2026-09-03",
       "payDate": "2026-09-17",
       "amount": 100,
+      "market": "KOSPI"
+    },
+    {
+      "name": "롯데지주",
+      "code": "004990",
+      "exDate": "2026-09-03",
+      "payDate": "2026-09-18",
+      "amount": 500,
+      "market": "KOSPI"
+    },
+    {
+      "name": "롯데케미칼",
+      "code": "011170",
+      "exDate": "2026-09-03",
+      "payDate": "2026-09-18",
+      "amount": 500,
       "market": "KOSPI"
     }
   ]
