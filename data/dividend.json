@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T06:51:29+09:00",
+  "updated": "2026-08-22T06:46:13+09:00",
   "source": "DART",
   "items": [
     {
@@ -75,22 +75,6 @@
       "market": "KOSDAQ"
     },
     {
-      "name": "TYM",
-      "code": "002900",
-      "exDate": "2026-08-28",
-      "payDate": "2026-08-12",
-      "amount": 120,
-      "market": "KOSPI"
-    },
-    {
-      "name": "아이패밀리에스씨",
-      "code": "114840",
-      "exDate": "2026-08-28",
-      "payDate": "2026-09-14",
-      "amount": 111,
-      "market": "KOSDAQ"
-    },
-    {
       "name": "SK네트웍스",
       "code": "001740",
       "exDate": "2026-08-31",
@@ -104,22 +88,6 @@
       "exDate": "2026-08-31",
       "payDate": "2026-09-18",
       "amount": 600,
-      "market": "KOSPI"
-    },
-    {
-      "name": "까뮤이앤씨",
-      "code": "013700",
-      "exDate": "2026-08-31",
-      "payDate": "2026-09-11",
-      "amount": 15,
-      "market": "KOSPI"
-    },
-    {
-      "name": "현대엘리베이터",
-      "code": "017800",
-      "exDate": "2026-08-31",
-      "payDate": "2026-09-18",
-      "amount": 1000,
       "market": "KOSPI"
     },
     {
