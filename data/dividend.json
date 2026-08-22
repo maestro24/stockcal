@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T06:46:13+09:00",
+  "updated": "2026-08-23T06:43:18+09:00",
   "source": "DART",
   "items": [
     {
@@ -19,76 +19,12 @@
       "market": "KOSDAQ"
     },
     {
-      "name": "유니테크노",
-      "code": "241690",
-      "exDate": "2026-06-30",
-      "payDate": "2026-09-14",
-      "amount": 23,
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "이엘피",
-      "code": "063760",
-      "exDate": "2026-06-30",
-      "payDate": "2026-09-11",
-      "amount": 40,
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "지에스이",
-      "code": "053050",
-      "exDate": "2026-06-30",
-      "payDate": "2026-08-25",
-      "amount": 20,
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "케이카",
-      "code": "381970",
-      "exDate": "2026-06-30",
-      "payDate": "2026-08-27",
-      "amount": 50,
-      "market": "KOSPI"
-    },
-    {
-      "name": "효성오앤비",
-      "code": "097870",
-      "exDate": "2026-06-30",
-      "payDate": "2026-10-14",
-      "amount": 200,
-      "market": "KOSDAQ"
-    },
-    {
       "name": "매드업",
       "code": "0039P0",
       "exDate": "2026-07-31",
       "payDate": "2026-08-21",
       "amount": 54,
       "market": "KOSDAQ"
-    },
-    {
-      "name": "콜마비앤에이치",
-      "code": "200130",
-      "exDate": "2026-08-26",
-      "payDate": "2026-08-12",
-      "amount": 60,
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "SK네트웍스",
-      "code": "001740",
-      "exDate": "2026-08-31",
-      "payDate": "2026-09-11",
-      "amount": 70,
-      "market": "KOSPI"
-    },
-    {
-      "name": "광주신세계",
-      "code": "037710",
-      "exDate": "2026-08-31",
-      "payDate": "2026-09-18",
-      "amount": 600,
-      "market": "KOSPI"
     },
     {
       "name": "대한제강",
