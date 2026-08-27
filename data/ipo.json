@@ -1,21 +1,7 @@
 {
-  "updated": "2026-08-16T06:41:39+09:00",
+  "updated": "2026-08-27T09:55:08+09:00",
   "source": "KRX KIND / DART",
   "items": [
-    {
-      "name": "달바글로벌",
-      "code": null,
-      "subStart": "2025-05-09",
-      "subEnd": "2025-05-12",
-      "listDate": "2025-05-22",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 66300,
-      "underwriters": [
-        "미래에셋증권 주식회사"
-      ],
-      "market": "KOSPI"
-    },
     {
       "name": "지에프씨생명과학",
       "code": null,
@@ -1366,6 +1352,21 @@
       "finalPrice": 11000,
       "underwriters": [
         "IBK투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "빅웨이브로보틱스",
+      "code": null,
+      "subStart": "2026-08-05",
+      "subEnd": "2026-08-06",
+      "listDate": "2026-08-14",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": null,
+      "underwriters": [
+        "유진투자증권(주)",
+        "미래에셋증권 주식회사"
       ],
       "market": "KOSDAQ"
     },
