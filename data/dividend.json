@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T12:13:12+09:00",
+  "updated": "2026-09-01T09:41:42+09:00",
   "source": "DART",
   "items": [
     {
@@ -11,11 +11,35 @@
       "market": "KOSDAQ"
     },
     {
+      "name": "대동고려삼",
+      "code": "178600",
+      "exDate": "2026-07-07",
+      "payDate": "2026-10-23",
+      "amount": 35,
+      "market": "KONEX"
+    },
+    {
+      "name": "티쓰리",
+      "code": "204610",
+      "exDate": "2026-08-31",
+      "payDate": "2026-09-18",
+      "amount": 40,
+      "market": "KOSDAQ"
+    },
+    {
       "name": "LG",
       "code": "003550",
       "exDate": "2026-09-11",
       "payDate": "2026-09-23",
       "amount": 1000,
+      "market": "KOSPI"
+    },
+    {
+      "name": "만호제강",
+      "code": "001080",
+      "exDate": "2026-09-15",
+      "payDate": "2026-09-18",
+      "amount": 150,
       "market": "KOSPI"
     }
   ]
