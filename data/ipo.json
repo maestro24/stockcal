@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T14:30:33+09:00",
+  "updated": "2026-09-04T08:22:37+09:00",
   "source": "KRX KIND / DART",
   "items": [
     {
@@ -68,20 +68,6 @@
       "priceBandLow": null,
       "priceBandHigh": null,
       "finalPrice": 4700,
-      "underwriters": [
-        "대신증권(주)"
-      ],
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "아우토크립트",
-      "code": null,
-      "subStart": "2025-07-03",
-      "subEnd": "2025-07-04",
-      "listDate": "2025-07-15",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 22000,
       "underwriters": [
         "대신증권(주)"
       ],
@@ -1423,6 +1409,20 @@
       "underwriters": [
         "유진투자증권(주)",
         "미래에셋증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "글로벌테크놀로지",
+      "code": null,
+      "subStart": "2026-09-16",
+      "subEnd": "2026-09-17",
+      "listDate": "2026-09-29",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": null,
+      "underwriters": [
+        "한국투자증권(주)"
       ],
       "market": "KOSDAQ"
     }
