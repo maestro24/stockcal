@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T09:41:42+09:00",
+  "updated": "2026-09-05T08:07:43+09:00",
   "source": "DART",
   "items": [
     {
@@ -8,6 +8,22 @@
       "exDate": "2026-06-30",
       "payDate": "2026-09-28",
       "amount": 50,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "엠브레인",
+      "code": "169330",
+      "exDate": "2026-06-30",
+      "payDate": "2026-09-29",
+      "amount": 90,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "포시에스",
+      "code": "189690",
+      "exDate": "2026-06-30",
+      "payDate": "2026-09-22",
+      "amount": 115,
       "market": "KOSDAQ"
     },
     {
@@ -25,14 +41,6 @@
       "payDate": "2026-09-18",
       "amount": 40,
       "market": "KOSDAQ"
-    },
-    {
-      "name": "LG",
-      "code": "003550",
-      "exDate": "2026-09-11",
-      "payDate": "2026-09-23",
-      "amount": 1000,
-      "market": "KOSPI"
     },
     {
       "name": "만호제강",

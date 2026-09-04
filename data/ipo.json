@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T08:22:37+09:00",
+  "updated": "2026-09-05T08:07:13+09:00",
   "source": "KRX KIND / DART",
   "items": [
     {
@@ -13,20 +13,6 @@
       "finalPrice": 15300,
       "underwriters": [
         "대신증권(주)"
-      ],
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "뉴엔AI",
-      "code": null,
-      "subStart": "2025-06-23",
-      "subEnd": "2025-06-24",
-      "listDate": "2025-07-04",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 15000,
-      "underwriters": [
-        "엔에이치투자증권(주)"
       ],
       "market": "KOSDAQ"
     },
@@ -1394,6 +1380,20 @@
       "finalPrice": 10000,
       "underwriters": [
         "한국투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "엔에이치스팩34호",
+      "code": null,
+      "subStart": "2026-09-01",
+      "subEnd": "2026-09-02",
+      "listDate": "2026-09-10",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "엔에이치투자증권(주)"
       ],
       "market": "KOSDAQ"
     },
