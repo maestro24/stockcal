@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T08:37:47+09:00",
+  "updated": "2026-09-09T08:29:13+09:00",
   "source": "DART",
   "items": [
     {
@@ -19,35 +19,11 @@
       "market": "KOSDAQ"
     },
     {
-      "name": "대동고려삼",
-      "code": "178600",
-      "exDate": "2026-07-07",
-      "payDate": "2026-10-23",
-      "amount": 35,
-      "market": "KONEX"
-    },
-    {
       "name": "동원산업",
       "code": "006040",
       "exDate": "2026-08-31",
       "payDate": "2025-09-11",
       "amount": 600,
-      "market": "KOSPI"
-    },
-    {
-      "name": "티쓰리",
-      "code": "204610",
-      "exDate": "2026-08-31",
-      "payDate": "2026-09-18",
-      "amount": 40,
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "만호제강",
-      "code": "001080",
-      "exDate": "2026-09-15",
-      "payDate": "2026-09-18",
-      "amount": 150,
       "market": "KOSPI"
     },
     {
