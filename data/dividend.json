@@ -1,23 +1,7 @@
 {
-  "updated": "2026-09-09T08:29:13+09:00",
+  "updated": "2026-09-13T08:07:50+09:00",
   "source": "DART",
   "items": [
-    {
-      "name": "엠브레인",
-      "code": "169330",
-      "exDate": "2026-06-30",
-      "payDate": "2026-09-29",
-      "amount": 90,
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "포시에스",
-      "code": "189690",
-      "exDate": "2026-06-30",
-      "payDate": "2026-09-22",
-      "amount": 115,
-      "market": "KOSDAQ"
-    },
     {
       "name": "동원산업",
       "code": "006040",
