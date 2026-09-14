@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T08:07:50+09:00",
+  "updated": "2026-09-15T08:55:22+09:00",
   "source": "DART",
   "items": [
     {
@@ -16,6 +16,14 @@
       "exDate": "2026-09-22",
       "payDate": "2026-10-22",
       "amount": 100,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "원풍",
+      "code": "008370",
+      "exDate": "2026-09-30",
+      "payDate": "2026-10-13",
+      "amount": 300,
       "market": "KOSDAQ"
     }
   ]

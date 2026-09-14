@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T08:07:13+09:00",
+  "updated": "2026-09-15T08:55:12+09:00",
   "source": "KRX KIND / DART",
   "items": [
     {
@@ -46,20 +46,6 @@
       "market": "KOSDAQ"
     },
     {
-      "name": "싸이닉솔루션",
-      "code": null,
-      "subStart": "2025-06-25",
-      "subEnd": "2025-06-26",
-      "listDate": "2025-07-07",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 4700,
-      "underwriters": [
-        "대신증권(주)"
-      ],
-      "market": "KOSDAQ"
-    },
-    {
       "name": "엘에스스팩1호",
       "code": null,
       "subStart": "2025-07-08",
@@ -84,20 +70,6 @@
       "finalPrice": 2000,
       "underwriters": [
         "DB증권주식회사"
-      ],
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "도우인시스",
-      "code": null,
-      "subStart": "2025-07-14",
-      "subEnd": "2025-07-15",
-      "listDate": "2025-07-23",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 32000,
-      "underwriters": [
-        "키움증권(주)"
       ],
       "market": "KOSDAQ"
     },
@@ -1394,6 +1366,34 @@
       "finalPrice": 2000,
       "underwriters": [
         "엔에이치투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "네오사피엔스",
+      "code": null,
+      "subStart": "2026-09-10",
+      "subEnd": "2026-09-11",
+      "listDate": "2026-09-21",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 10000,
+      "underwriters": [
+        "대신증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "케이비제34호스팩",
+      "code": null,
+      "subStart": "2026-09-10",
+      "subEnd": "2026-09-11",
+      "listDate": "2026-09-22",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "KB증권(주)"
       ],
       "market": "KOSDAQ"
     },
