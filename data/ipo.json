@@ -1,21 +1,7 @@
 {
-  "updated": "2026-09-15T08:55:12+09:00",
+  "updated": "2026-09-16T08:33:44+09:00",
   "source": "KRX KIND / DART",
   "items": [
-    {
-      "name": "지에프씨생명과학",
-      "code": null,
-      "subStart": "2025-06-19",
-      "subEnd": "2025-06-20",
-      "listDate": "2025-06-30",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 15300,
-      "underwriters": [
-        "대신증권(주)"
-      ],
-      "market": "KOSDAQ"
-    },
     {
       "name": "대신밸류리츠",
       "code": null,
@@ -1398,6 +1384,20 @@
       "market": "KOSDAQ"
     },
     {
+      "name": "한국제17호스팩",
+      "code": null,
+      "subStart": "2026-09-10",
+      "subEnd": "2026-09-11",
+      "listDate": "2026-09-22",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "한국투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
       "name": "빅웨이브로보틱스",
       "code": null,
       "subStart": "2026-09-15",
@@ -1420,7 +1420,7 @@
       "listDate": "2026-09-29",
       "priceBandLow": null,
       "priceBandHigh": null,
-      "finalPrice": null,
+      "finalPrice": 10000,
       "underwriters": [
         "한국투자증권(주)"
       ],

@@ -1,21 +1,29 @@
 {
-  "updated": "2026-09-15T08:55:22+09:00",
+  "updated": "2026-09-16T08:34:11+09:00",
   "source": "DART",
   "items": [
     {
-      "name": "동원산업",
-      "code": "006040",
-      "exDate": "2026-08-31",
-      "payDate": "2025-09-11",
-      "amount": 600,
+      "name": "세원정공",
+      "code": "021820",
+      "exDate": "2026-06-30",
+      "payDate": "2026-09-30",
+      "amount": 200,
       "market": "KOSPI"
     },
     {
-      "name": "에스피지",
-      "code": "058610",
-      "exDate": "2026-09-22",
-      "payDate": "2026-10-22",
-      "amount": 100,
+      "name": "백산",
+      "code": "035150",
+      "exDate": "2026-09-15",
+      "payDate": "2026-09-15",
+      "amount": 250,
+      "market": "KOSPI"
+    },
+    {
+      "name": "원풍",
+      "code": "008370",
+      "exDate": "2026-09-30",
+      "payDate": "2026-10-13",
+      "amount": 300,
       "market": "KOSDAQ"
     },
     {
@@ -24,6 +32,14 @@
       "exDate": "2026-09-30",
       "payDate": "2026-10-13",
       "amount": 300,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "폰드그룹",
+      "code": "472850",
+      "exDate": "2026-09-30",
+      "payDate": "2026-10-15",
+      "amount": 40,
       "market": "KOSDAQ"
     }
   ]
