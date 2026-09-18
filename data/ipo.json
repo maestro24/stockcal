@@ -1,21 +1,7 @@
 {
-  "updated": "2026-09-18T08:35:11+09:00",
+  "updated": "2026-09-19T08:25:01+09:00",
   "source": "KRX KIND / DART",
   "items": [
-    {
-      "name": "KB제32호스팩",
-      "code": null,
-      "subStart": "2025-06-24",
-      "subEnd": "2025-06-25",
-      "listDate": "2025-07-04",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 2000,
-      "underwriters": [
-        "KB증권(주)"
-      ],
-      "market": "KOSDAQ"
-    },
     {
       "name": "엘에스스팩1호",
       "code": null,
@@ -1327,6 +1313,20 @@
       "market": "KOSDAQ"
     },
     {
+      "name": "KB제34호스팩",
+      "code": null,
+      "subStart": "2026-09-10",
+      "subEnd": "2026-09-11",
+      "listDate": "2026-09-22",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "KB증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
       "name": "네오사피엔스",
       "code": null,
       "subStart": "2026-09-10",
@@ -1337,20 +1337,6 @@
       "finalPrice": 10000,
       "underwriters": [
         "대신증권(주)"
-      ],
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "케이비제34호스팩",
-      "code": null,
-      "subStart": "2026-09-10",
-      "subEnd": "2026-09-11",
-      "listDate": "2026-09-22",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 2000,
-      "underwriters": [
-        "KB증권(주)"
       ],
       "market": "KOSDAQ"
     },
@@ -1408,6 +1394,20 @@
       "finalPrice": 10000,
       "underwriters": [
         "한국투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "덕산넵코어스",
+      "code": null,
+      "subStart": "2026-09-16",
+      "subEnd": "2026-09-17",
+      "listDate": "2026-09-30",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 14600,
+      "underwriters": [
+        "대신증권(주)"
       ],
       "market": "KOSDAQ"
     },
