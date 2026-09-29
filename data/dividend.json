@@ -1,37 +1,13 @@
 {
-  "updated": "2026-09-22T09:12:13+09:00",
+  "updated": "2026-09-29T10:05:58+09:00",
   "source": "DART",
   "items": [
     {
-      "name": "세원정공",
-      "code": "021820",
-      "exDate": "2026-06-30",
-      "payDate": "2026-09-30",
-      "amount": 200,
-      "market": "KOSPI"
-    },
-    {
-      "name": "백산",
-      "code": "035150",
-      "exDate": "2026-09-15",
-      "payDate": "2026-09-15",
-      "amount": 250,
-      "market": "KOSPI"
-    },
-    {
-      "name": "원풍",
-      "code": "008370",
-      "exDate": "2026-09-30",
-      "payDate": "2026-10-13",
-      "amount": 300,
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "폰드그룹",
-      "code": "472850",
-      "exDate": "2026-09-30",
-      "payDate": "2026-10-15",
-      "amount": 40,
+      "name": "블랙야크아이앤씨",
+      "code": "478560",
+      "exDate": "2026-10-13",
+      "payDate": "2026-10-28",
+      "amount": 50,
       "market": "KOSDAQ"
     }
   ]
