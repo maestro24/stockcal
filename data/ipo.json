@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T08:25:01+09:00",
+  "updated": "2026-10-02T09:57:36+09:00",
   "source": "KRX KIND / DART",
   "items": [
     {
@@ -41,20 +41,6 @@
       "finalPrice": 14000,
       "underwriters": [
         "미래에셋증권 주식회사"
-      ],
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "엔알비",
-      "code": null,
-      "subStart": "2025-07-17",
-      "subEnd": "2025-07-18",
-      "listDate": "2025-07-28",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 21000,
-      "underwriters": [
-        "엔에이치투자증권(주)"
       ],
       "market": "KOSDAQ"
     },
@@ -1422,6 +1408,20 @@
       "finalPrice": 19500,
       "underwriters": [
         "IBK투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "멜콘",
+      "code": null,
+      "subStart": "2026-10-01",
+      "subEnd": "2026-10-02",
+      "listDate": "2026-10-15",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": null,
+      "underwriters": [
+        "대신증권(주)"
       ],
       "market": "KOSDAQ"
     }
