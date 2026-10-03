@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T09:58:07+09:00",
+  "updated": "2026-10-03T09:35:05+09:00",
   "source": "DART",
   "items": [
     {
@@ -8,6 +8,14 @@
       "exDate": "2026-06-30",
       "payDate": "2026-09-29",
       "amount": 4,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "오로라",
+      "code": "039830",
+      "exDate": "2026-09-30",
+      "payDate": "2026-10-22",
+      "amount": 200,
       "market": "KOSDAQ"
     },
     {
@@ -25,6 +33,14 @@
       "payDate": "2026-10-22",
       "amount": 50,
       "market": "KOSDAQ"
+    },
+    {
+      "name": "진흥기업",
+      "code": "002780",
+      "exDate": "2026-09-30",
+      "payDate": "2026-10-21",
+      "amount": 5750,
+      "market": "KOSPI"
     },
     {
       "name": "한국카본",
@@ -48,6 +64,14 @@
       "exDate": "2026-10-16",
       "payDate": "2026-10-01",
       "amount": 960,
+      "market": "KOSPI"
+    },
+    {
+      "name": "영원무역홀딩스",
+      "code": "009970",
+      "exDate": "2026-10-19",
+      "payDate": "2026-11-09",
+      "amount": 3000,
       "market": "KOSPI"
     }
   ]
