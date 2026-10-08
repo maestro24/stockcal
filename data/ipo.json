@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T09:34:34+09:00",
+  "updated": "2026-10-08T10:07:30+09:00",
   "source": "KRX KIND / DART",
   "items": [
     {
@@ -27,20 +27,6 @@
       "finalPrice": 2000,
       "underwriters": [
         "DB증권주식회사"
-      ],
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "뉴로핏",
-      "code": null,
-      "subStart": "2025-07-15",
-      "subEnd": "2025-07-16",
-      "listDate": "2025-07-25",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 14000,
-      "underwriters": [
-        "미래에셋증권 주식회사"
       ],
       "market": "KOSDAQ"
     },
@@ -1422,6 +1408,20 @@
       "finalPrice": 12300,
       "underwriters": [
         "대신증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "진코스텍",
+      "code": null,
+      "subStart": "2026-10-02",
+      "subEnd": "2026-10-06",
+      "listDate": "2026-10-15",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 23500,
+      "underwriters": [
+        "하나증권주식회사"
       ],
       "market": "KOSDAQ"
     }
