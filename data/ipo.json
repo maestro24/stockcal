@@ -1,21 +1,7 @@
 {
-  "updated": "2026-10-08T10:07:30+09:00",
+  "updated": "2026-10-13T11:38:26+09:00",
   "source": "KRX KIND / DART",
   "items": [
-    {
-      "name": "엘에스스팩1호",
-      "code": null,
-      "subStart": "2025-07-08",
-      "subEnd": "2025-07-09",
-      "listDate": "2025-07-22",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 2000,
-      "underwriters": [
-        "엘에스증권 주식회사"
-      ],
-      "market": "KOSDAQ"
-    },
     {
       "name": "디비금융제14호스팩",
       "code": null,
@@ -57,20 +43,6 @@
       "finalPrice": 2000,
       "underwriters": [
         "하나증권주식회사"
-      ],
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "아이티켐",
-      "code": null,
-      "subStart": "2025-07-28",
-      "subEnd": "2025-07-29",
-      "listDate": "2025-08-07",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 16100,
-      "underwriters": [
-        "KB증권(주)"
       ],
       "market": "KOSDAQ"
     },
@@ -1422,6 +1394,35 @@
       "finalPrice": 23500,
       "underwriters": [
         "하나증권주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "엘리스그룹",
+      "code": null,
+      "subStart": "2026-10-07",
+      "subEnd": "2026-10-08",
+      "listDate": "2026-10-20",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 90500,
+      "underwriters": [
+        "미래에셋증권 주식회사",
+        "삼성증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "디티에스",
+      "code": null,
+      "subStart": "2026-10-13",
+      "subEnd": "2026-10-14",
+      "listDate": "2026-10-23",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 18500,
+      "underwriters": [
+        "대신증권(주)"
       ],
       "market": "KOSDAQ"
     }
