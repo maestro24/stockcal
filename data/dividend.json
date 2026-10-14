@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T09:26:04+09:00",
+  "updated": "2026-10-15T08:59:30+09:00",
   "source": "DART",
   "items": [
     {
@@ -59,12 +59,44 @@
       "market": "KOSPI"
     },
     {
+      "name": "메디톡스",
+      "code": "086900",
+      "exDate": "2026-10-29",
+      "payDate": "2026-11-09",
+      "amount": 1200,
+      "market": "KOSDAQ"
+    },
+    {
       "name": "아세아텍",
       "code": "050860",
       "exDate": "2026-10-30",
       "payDate": "2026-10-13",
       "amount": 25,
       "market": "KOSDAQ"
+    },
+    {
+      "name": "진바이오텍",
+      "code": "086060",
+      "exDate": "2026-10-30",
+      "payDate": "2026-11-13",
+      "amount": 30,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "진바이오텍",
+      "code": "086060",
+      "exDate": "2026-10-30",
+      "payDate": "2026-11-10",
+      "amount": 30,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "미원상사",
+      "code": "002840",
+      "exDate": "2026-10-31",
+      "payDate": "2026-11-19",
+      "amount": 1000,
+      "market": "KOSPI"
     }
   ]
 }
