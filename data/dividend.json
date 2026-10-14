@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T09:39:29+09:00",
+  "updated": "2026-10-14T09:26:04+09:00",
   "source": "DART",
   "items": [
     {
@@ -17,6 +17,14 @@
       "payDate": "2026-10-23",
       "amount": 50,
       "market": "KOSDAQ"
+    },
+    {
+      "name": "아세아제지",
+      "code": "002310",
+      "exDate": "2026-09-30",
+      "payDate": "2026-10-20",
+      "amount": 50,
+      "market": "KOSPI"
     },
     {
       "name": "한국가구",
@@ -41,6 +49,22 @@
       "payDate": "2026-10-28",
       "amount": 5410,
       "market": "KOSPI"
+    },
+    {
+      "name": "케이티",
+      "code": "030200",
+      "exDate": "2026-10-28",
+      "payDate": "2026-11-12",
+      "amount": 600,
+      "market": "KOSPI"
+    },
+    {
+      "name": "아세아텍",
+      "code": "050860",
+      "exDate": "2026-10-30",
+      "payDate": "2026-10-13",
+      "amount": 25,
+      "market": "KOSDAQ"
     }
   ]
 }
