@@ -1,15 +1,7 @@
 {
-  "updated": "2026-10-15T08:59:30+09:00",
+  "updated": "2026-10-16T08:44:16+09:00",
   "source": "DART",
   "items": [
-    {
-      "name": "KH바텍",
-      "code": "060720",
-      "exDate": "2026-09-30",
-      "payDate": "2026-10-30",
-      "amount": 50,
-      "market": "KOSDAQ"
-    },
     {
       "name": "셀로맥스사이언스",
       "code": "471820",
@@ -27,27 +19,11 @@
       "market": "KOSPI"
     },
     {
-      "name": "한국가구",
-      "code": "004590",
-      "exDate": "2026-09-30",
-      "payDate": "2026-10-22",
-      "amount": 45,
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "인피니트헬스케어",
-      "code": "071200",
-      "exDate": "2026-10-12",
-      "payDate": "2026-10-28",
-      "amount": 820,
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "미스토홀딩스",
-      "code": "081660",
-      "exDate": "2026-10-27",
-      "payDate": "2026-10-28",
-      "amount": 5410,
+      "name": "에이블씨엔씨",
+      "code": "078520",
+      "exDate": "2026-10-20",
+      "payDate": "2026-10-30",
+      "amount": 100,
       "market": "KOSPI"
     },
     {
