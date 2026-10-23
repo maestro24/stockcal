@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T09:02:56+09:00",
+  "updated": "2026-10-24T08:54:15+09:00",
   "source": "DART",
   "items": [
     {
@@ -27,6 +27,14 @@
       "market": "KOSDAQ"
     },
     {
+      "name": "BNK금융지주",
+      "code": "138930",
+      "exDate": "2026-10-23",
+      "payDate": "2026-10-23",
+      "amount": 1064,
+      "market": "KOSPI"
+    },
+    {
       "name": "메디톡스",
       "code": "086900",
       "exDate": "2026-10-29",
@@ -40,6 +48,22 @@
       "exDate": "2026-11-05",
       "payDate": "2026-10-21",
       "amount": 630,
+      "market": "KOSPI"
+    },
+    {
+      "name": "하나금융지주",
+      "code": "086790",
+      "exDate": "2026-11-09",
+      "payDate": "2026-11-20",
+      "amount": 1165,
+      "market": "KOSPI"
+    },
+    {
+      "name": "우리금융지주",
+      "code": "316140",
+      "exDate": "2026-11-10",
+      "payDate": "2026-11-30",
+      "amount": 220,
       "market": "KOSPI"
     }
   ]

@@ -1,49 +1,7 @@
 {
-  "updated": "2026-10-23T09:02:32+09:00",
+  "updated": "2026-10-24T08:53:40+09:00",
   "source": "KRX KIND / DART",
   "items": [
-    {
-      "name": "교보18호스팩",
-      "code": null,
-      "subStart": "2025-08-05",
-      "subEnd": "2025-08-06",
-      "listDate": "2025-08-14",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 2000,
-      "underwriters": [
-        "교보증권(주)"
-      ],
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "삼성스팩10호",
-      "code": null,
-      "subStart": "2025-08-11",
-      "subEnd": "2025-08-12",
-      "listDate": "2025-08-21",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 2000,
-      "underwriters": [
-        "삼성증권(주)"
-      ],
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "제이피아이헬스케어",
-      "code": null,
-      "subStart": "2025-08-11",
-      "subEnd": "2025-08-12",
-      "listDate": "2025-08-21",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 20000,
-      "underwriters": [
-        "키움증권(주)"
-      ],
-      "market": "KOSDAQ"
-    },
     {
       "name": "한라캐스트",
       "code": null,
@@ -1391,6 +1349,48 @@
       "finalPrice": 2000,
       "underwriters": [
         "한화투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "래블업",
+      "code": null,
+      "subStart": "2026-10-22",
+      "subEnd": "2026-10-23",
+      "listDate": "2026-11-03",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 19000,
+      "underwriters": [
+        "엔에이치투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "영광",
+      "code": null,
+      "subStart": "2026-10-22",
+      "subEnd": "2026-10-23",
+      "listDate": "2026-11-02",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": null,
+      "underwriters": [
+        "한국투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "동원파츠",
+      "code": null,
+      "subStart": "2026-11-02",
+      "subEnd": "2026-11-03",
+      "listDate": "2026-11-12",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": null,
+      "underwriters": [
+        "삼성증권(주)"
       ],
       "market": "KOSDAQ"
     },
