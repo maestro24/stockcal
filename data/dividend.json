@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T09:04:10+09:00",
+  "updated": "2026-10-23T09:02:56+09:00",
   "source": "DART",
   "items": [
     {
@@ -11,20 +11,20 @@
       "market": "KOSDAQ"
     },
     {
+      "name": "무학",
+      "code": "033920",
+      "exDate": "2026-09-30",
+      "payDate": "2026-10-22",
+      "amount": 160,
+      "market": "KOSPI"
+    },
+    {
       "name": "브이엠",
       "code": "089970",
       "exDate": "2026-09-30",
       "payDate": "2026-10-30",
       "amount": 900,
       "market": "KOSDAQ"
-    },
-    {
-      "name": "에이블씨엔씨",
-      "code": "078520",
-      "exDate": "2026-10-20",
-      "payDate": "2026-10-30",
-      "amount": 100,
-      "market": "KOSPI"
     },
     {
       "name": "메디톡스",

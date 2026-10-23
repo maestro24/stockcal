@@ -1,37 +1,7 @@
 {
-  "updated": "2026-10-21T08:59:06+09:00",
+  "updated": "2026-10-23T09:02:32+09:00",
   "source": "KRX KIND / DART",
   "items": [
-    {
-      "name": "대한조선",
-      "code": null,
-      "subStart": "2025-07-22",
-      "subEnd": "2025-07-23",
-      "listDate": "2025-08-01",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 50000,
-      "underwriters": [
-        "KB증권(주)",
-        "엔에이치투자증권(주)",
-        "신영증권(주)"
-      ],
-      "market": "KOSPI"
-    },
-    {
-      "name": "하나35호스팩",
-      "code": null,
-      "subStart": "2025-07-25",
-      "subEnd": "2025-07-28",
-      "listDate": "2025-08-06",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 2000,
-      "underwriters": [
-        "하나증권주식회사"
-      ],
-      "market": "KOSDAQ"
-    },
     {
       "name": "교보18호스팩",
       "code": null,
@@ -43,20 +13,6 @@
       "finalPrice": 2000,
       "underwriters": [
         "교보증권(주)"
-      ],
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "에스엔시스",
-      "code": null,
-      "subStart": "2025-08-07",
-      "subEnd": "2025-08-08",
-      "listDate": "2025-08-19",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 30000,
-      "underwriters": [
-        "신한투자증권 주식회사"
       ],
       "market": "KOSDAQ"
     },
@@ -1393,6 +1349,48 @@
       "finalPrice": 2000,
       "underwriters": [
         "SK증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "크리에이츠",
+      "code": null,
+      "subStart": "2026-10-20",
+      "subEnd": "2026-10-21",
+      "listDate": "2026-10-29",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 15000,
+      "underwriters": [
+        "삼성증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "티앤이코리아",
+      "code": null,
+      "subStart": "2026-10-20",
+      "subEnd": "2026-10-21",
+      "listDate": "2026-10-29",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 15300,
+      "underwriters": [
+        "신한투자증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "한화플러스제6호스팩",
+      "code": null,
+      "subStart": "2026-10-20",
+      "subEnd": "2026-10-21",
+      "listDate": "2026-10-30",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "한화투자증권(주)"
       ],
       "market": "KOSDAQ"
     },
