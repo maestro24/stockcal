@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T08:54:15+09:00",
+  "updated": "2026-10-25T08:29:01+09:00",
   "source": "DART",
   "items": [
     {
@@ -33,14 +33,6 @@
       "payDate": "2026-10-23",
       "amount": 1064,
       "market": "KOSPI"
-    },
-    {
-      "name": "메디톡스",
-      "code": "086900",
-      "exDate": "2026-10-29",
-      "payDate": "2026-11-09",
-      "amount": 1200,
-      "market": "KOSDAQ"
     },
     {
       "name": "신한지주",
