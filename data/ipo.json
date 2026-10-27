@@ -1,35 +1,7 @@
 {
-  "updated": "2026-10-24T08:53:40+09:00",
+  "updated": "2026-10-27T09:38:04+09:00",
   "source": "KRX KIND / DART",
   "items": [
-    {
-      "name": "한라캐스트",
-      "code": null,
-      "subStart": "2025-08-11",
-      "subEnd": "2025-08-12",
-      "listDate": "2025-08-20",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 5800,
-      "underwriters": [
-        "대신증권(주)"
-      ],
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "에스투더블유",
-      "code": null,
-      "subStart": "2025-09-10",
-      "subEnd": "2025-09-11",
-      "listDate": "2025-09-19",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 13200,
-      "underwriters": [
-        "대신증권(주)"
-      ],
-      "market": "KOSDAQ"
-    },
     {
       "name": "명인제약",
       "code": null,
@@ -1353,6 +1325,20 @@
       "market": "KOSDAQ"
     },
     {
+      "name": "인텔리빅스",
+      "code": null,
+      "subStart": "2026-10-21",
+      "subEnd": "2026-10-22",
+      "listDate": "2026-10-31",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 9000,
+      "underwriters": [
+        "미래에셋증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
       "name": "래블업",
       "code": null,
       "subStart": "2026-10-22",
@@ -1374,9 +1360,23 @@
       "listDate": "2026-11-02",
       "priceBandLow": null,
       "priceBandHigh": null,
-      "finalPrice": null,
+      "finalPrice": 17000,
       "underwriters": [
         "한국투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "이에스티",
+      "code": null,
+      "subStart": "2026-10-22",
+      "subEnd": "2026-10-23",
+      "listDate": "2026-11-04",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 12400,
+      "underwriters": [
+        "대신증권(주)"
       ],
       "market": "KOSDAQ"
     },
@@ -1385,7 +1385,7 @@
       "code": null,
       "subStart": "2026-11-02",
       "subEnd": "2026-11-03",
-      "listDate": "2026-11-12",
+      "listDate": "2026-11-10",
       "priceBandLow": null,
       "priceBandHigh": null,
       "finalPrice": null,

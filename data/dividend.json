@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T08:29:01+09:00",
+  "updated": "2026-10-27T09:38:20+09:00",
   "source": "DART",
   "items": [
     {
@@ -48,6 +48,38 @@
       "exDate": "2026-11-09",
       "payDate": "2026-11-20",
       "amount": 1165,
+      "market": "KOSPI"
+    },
+    {
+      "name": "AK홀딩스",
+      "code": "006840",
+      "exDate": "2026-11-10",
+      "payDate": "2026-11-26",
+      "amount": 144,
+      "market": "KOSPI"
+    },
+    {
+      "name": "BNK금융지주",
+      "code": "138930",
+      "exDate": "2026-11-10",
+      "payDate": "2026-11-25",
+      "amount": 150,
+      "market": "KOSPI"
+    },
+    {
+      "name": "HD현대마린솔루션",
+      "code": "443060",
+      "exDate": "2026-11-10",
+      "payDate": "2026-11-24",
+      "amount": 900,
+      "market": "KOSPI"
+    },
+    {
+      "name": "애경케미칼",
+      "code": "161000",
+      "exDate": "2026-11-10",
+      "payDate": "2026-11-26",
+      "amount": 144,
       "market": "KOSPI"
     },
     {
