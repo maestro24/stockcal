@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T09:38:20+09:00",
+  "updated": "2026-10-28T09:36:07+09:00",
   "source": "DART",
   "items": [
     {
@@ -19,19 +19,19 @@
       "market": "KOSPI"
     },
     {
-      "name": "브이엠",
-      "code": "089970",
-      "exDate": "2026-09-30",
-      "payDate": "2026-10-30",
-      "amount": 900,
-      "market": "KOSDAQ"
-    },
-    {
       "name": "BNK금융지주",
       "code": "138930",
       "exDate": "2026-10-23",
       "payDate": "2026-10-23",
       "amount": 1064,
+      "market": "KOSPI"
+    },
+    {
+      "name": "신한지주",
+      "code": "055550",
+      "exDate": "2026-11-03",
+      "payDate": "2026-11-27",
+      "amount": 740,
       "market": "KOSPI"
     },
     {
@@ -88,6 +88,46 @@
       "exDate": "2026-11-10",
       "payDate": "2026-11-30",
       "amount": 220,
+      "market": "KOSPI"
+    },
+    {
+      "name": "HD현대",
+      "code": "267250",
+      "exDate": "2026-11-11",
+      "payDate": "2026-12-03",
+      "amount": 1300,
+      "market": "KOSPI"
+    },
+    {
+      "name": "HD현대일렉트릭",
+      "code": "267260",
+      "exDate": "2026-11-11",
+      "payDate": "2026-11-26",
+      "amount": 1300,
+      "market": "KOSPI"
+    },
+    {
+      "name": "JB금융지주",
+      "code": "175330",
+      "exDate": "2026-11-11",
+      "payDate": "2026-11-25",
+      "amount": 317,
+      "market": "KOSPI"
+    },
+    {
+      "name": "SK스퀘어",
+      "code": "402340",
+      "exDate": "2026-11-30",
+      "payDate": "2026-10-28",
+      "amount": 20000,
+      "market": "KOSPI"
+    },
+    {
+      "name": "SK하이닉스",
+      "code": "000660",
+      "exDate": "2026-11-30",
+      "payDate": "2026-10-28",
+      "amount": 20000,
       "market": "KOSPI"
     }
   ]
