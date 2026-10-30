@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T10:06:09+09:00",
+  "updated": "2026-10-30T10:11:10+09:00",
   "source": "KRX KIND / DART",
   "items": [
     {
@@ -1374,7 +1374,7 @@
       "listDate": "2026-11-04",
       "priceBandLow": null,
       "priceBandHigh": null,
-      "finalPrice": null,
+      "finalPrice": 2000,
       "underwriters": [
         "iM증권"
       ],

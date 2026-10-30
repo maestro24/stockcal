@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-29T10:06:29+09:00",
+  "updated": "2026-10-30T10:11:56+09:00",
   "source": "DART",
   "items": [
     {
-      "name": "무학",
-      "code": "033920",
-      "exDate": "2026-09-30",
-      "payDate": "2026-10-22",
-      "amount": 160,
-      "market": "KOSPI"
+      "name": "인바이츠바이오코아",
+      "code": "216400",
+      "exDate": "2024-07-01",
+      "payDate": "2026-10-31",
+      "amount": 272,
+      "market": "KONEX"
     },
     {
       "name": "삼성전자",
@@ -107,6 +107,30 @@
       "market": "KOSPI"
     },
     {
+      "name": "KB금융",
+      "code": "105560",
+      "exDate": "2026-11-12",
+      "payDate": "2026-10-29",
+      "amount": 1167,
+      "market": "KOSPI"
+    },
+    {
+      "name": "두산밥캣",
+      "code": "241560",
+      "exDate": "2026-11-13",
+      "payDate": "2026-11-30",
+      "amount": 400,
+      "market": "KOSPI"
+    },
+    {
+      "name": "SK",
+      "code": "034730",
+      "exDate": "2026-11-30",
+      "payDate": "2026-12-17",
+      "amount": 830,
+      "market": "KOSPI"
+    },
+    {
       "name": "SK스퀘어",
       "code": "402340",
       "exDate": "2026-11-30",
@@ -115,11 +139,27 @@
       "market": "KOSPI"
     },
     {
+      "name": "SK텔레콤",
+      "code": "017670",
+      "exDate": "2026-11-30",
+      "payDate": "2026-12-17",
+      "amount": 830,
+      "market": "KOSPI"
+    },
+    {
       "name": "SK하이닉스",
       "code": "000660",
       "exDate": "2026-11-30",
       "payDate": "2026-10-28",
       "amount": 20000,
+      "market": "KOSPI"
+    },
+    {
+      "name": "현대자동차",
+      "code": "005380",
+      "exDate": "2026-11-30",
+      "payDate": "2026-12-30",
+      "amount": 2500,
       "market": "KOSPI"
     }
   ]
