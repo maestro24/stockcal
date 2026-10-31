@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T10:11:56+09:00",
+  "updated": "2026-10-31T09:55:12+09:00",
   "source": "DART",
   "items": [
     {
@@ -19,11 +19,11 @@
       "market": "KOSPI"
     },
     {
-      "name": "BNK금융지주",
-      "code": "138930",
-      "exDate": "2026-10-23",
-      "payDate": "2026-10-23",
-      "amount": 1064,
+      "name": "효성 ITX",
+      "code": "094280",
+      "exDate": "2026-09-30",
+      "payDate": "2026-11-13",
+      "amount": 150,
       "market": "KOSPI"
     },
     {
@@ -35,27 +35,11 @@
       "market": "KOSPI"
     },
     {
-      "name": "하나금융지주",
-      "code": "086790",
-      "exDate": "2026-11-09",
-      "payDate": "2026-11-20",
-      "amount": 1165,
-      "market": "KOSPI"
-    },
-    {
       "name": "AK홀딩스",
       "code": "006840",
       "exDate": "2026-11-10",
       "payDate": "2026-11-26",
       "amount": 144,
-      "market": "KOSPI"
-    },
-    {
-      "name": "BNK금융지주",
-      "code": "138930",
-      "exDate": "2026-11-10",
-      "payDate": "2026-11-25",
-      "amount": 150,
       "market": "KOSPI"
     },
     {
@@ -72,14 +56,6 @@
       "exDate": "2026-11-10",
       "payDate": "2026-11-26",
       "amount": 144,
-      "market": "KOSPI"
-    },
-    {
-      "name": "우리금융지주",
-      "code": "316140",
-      "exDate": "2026-11-10",
-      "payDate": "2026-11-30",
-      "amount": 220,
       "market": "KOSPI"
     },
     {
@@ -121,6 +97,30 @@
       "payDate": "2026-11-30",
       "amount": 400,
       "market": "KOSPI"
+    },
+    {
+      "name": "체리부로",
+      "code": "066360",
+      "exDate": "2026-11-16",
+      "payDate": "2026-11-27",
+      "amount": 50,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "코오롱",
+      "code": "002020",
+      "exDate": "2026-11-16",
+      "payDate": "2026-11-30",
+      "amount": 28,
+      "market": "KOSPI"
+    },
+    {
+      "name": "태광",
+      "code": "023160",
+      "exDate": "2026-11-16",
+      "payDate": "2026-11-30",
+      "amount": 78,
+      "market": "KOSDAQ"
     },
     {
       "name": "SK",
