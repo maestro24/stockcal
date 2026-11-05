@@ -1,21 +1,7 @@
 {
-  "updated": "2026-11-03T11:58:27+09:00",
+  "updated": "2026-11-05T10:33:38+09:00",
   "source": "KRX KIND / DART",
   "items": [
-    {
-      "name": "삼성스팩11호",
-      "code": null,
-      "subStart": "2025-09-19",
-      "subEnd": "2025-09-22",
-      "listDate": "2025-09-30",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 2000,
-      "underwriters": [
-        "삼성증권(주)"
-      ],
-      "market": "KOSDAQ"
-    },
     {
       "name": "KB제33호스팩",
       "code": null,
@@ -1381,6 +1367,20 @@
       "market": "KOSDAQ"
     },
     {
+      "name": "바로팜",
+      "code": null,
+      "subStart": "2026-11-02",
+      "subEnd": "2026-11-03",
+      "listDate": "2026-11-11",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 16400,
+      "underwriters": [
+        "미래에셋증권 주식회사"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
       "name": "넥스아이",
       "code": null,
       "subStart": "2026-11-03",
@@ -1388,7 +1388,7 @@
       "listDate": "2026-11-12",
       "priceBandLow": null,
       "priceBandHigh": null,
-      "finalPrice": null,
+      "finalPrice": 8000,
       "underwriters": [
         "한국투자증권(주)"
       ],

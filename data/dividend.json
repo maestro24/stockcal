@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T10:31:37+09:00",
+  "updated": "2026-11-05T10:34:19+09:00",
   "source": "DART",
   "items": [
     {
@@ -91,6 +91,22 @@
       "market": "KOSPI"
     },
     {
+      "name": "이노션",
+      "code": "214320",
+      "exDate": "2026-11-18",
+      "payDate": "2026-11-04",
+      "amount": 225,
+      "market": "KOSPI"
+    },
+    {
+      "name": "고려아연",
+      "code": "010130",
+      "exDate": "2026-11-19",
+      "payDate": "2026-12-04",
+      "amount": 5000,
+      "market": "KOSPI"
+    },
+    {
       "name": "SK",
       "code": "034730",
       "exDate": "2026-11-30",
@@ -99,27 +115,11 @@
       "market": "KOSPI"
     },
     {
-      "name": "SK스퀘어",
-      "code": "402340",
-      "exDate": "2026-11-30",
-      "payDate": "2026-10-28",
-      "amount": 20000,
-      "market": "KOSPI"
-    },
-    {
       "name": "SK텔레콤",
       "code": "017670",
       "exDate": "2026-11-30",
       "payDate": "2026-12-17",
       "amount": 830,
-      "market": "KOSPI"
-    },
-    {
-      "name": "SK하이닉스",
-      "code": "000660",
-      "exDate": "2026-11-30",
-      "payDate": "2026-10-28",
-      "amount": 20000,
       "market": "KOSPI"
     },
     {
