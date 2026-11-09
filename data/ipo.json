@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T10:33:38+09:00",
+  "updated": "2026-11-09T10:03:11+09:00",
   "source": "KRX KIND / DART",
   "items": [
     {
@@ -1402,7 +1402,7 @@
       "listDate": "2026-11-18",
       "priceBandLow": null,
       "priceBandHigh": null,
-      "finalPrice": null,
+      "finalPrice": 17600,
       "underwriters": [
         "대신증권(주)"
       ],
