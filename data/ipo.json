@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T12:40:07+09:00",
+  "updated": "2026-11-11T10:20:03+09:00",
   "source": "KRX KIND / DART",
   "items": [
     {
@@ -27,21 +27,6 @@
       "finalPrice": 14700,
       "underwriters": [
         "KB증권(주)"
-      ],
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "세나테크놀로지",
-      "code": null,
-      "subStart": "2025-11-04",
-      "subEnd": "2025-11-05",
-      "listDate": "2025-11-14",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 56800,
-      "underwriters": [
-        "KB증권(주)",
-        "신한투자증권 주식회사"
       ],
       "market": "KOSDAQ"
     },
@@ -1391,6 +1376,20 @@
       "finalPrice": 11000,
       "underwriters": [
         "대신증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "옵토닉스",
+      "code": null,
+      "subStart": "2026-11-05",
+      "subEnd": "2026-11-06",
+      "listDate": "2026-11-17",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 12000,
+      "underwriters": [
+        "한국투자증권(주)"
       ],
       "market": "KOSDAQ"
     },
