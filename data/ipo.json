@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T10:20:03+09:00",
+  "updated": "2026-11-12T11:20:12+09:00",
   "source": "KRX KIND / DART",
   "items": [
     {
@@ -13,20 +13,6 @@
       "finalPrice": 9100,
       "underwriters": [
         "미래에셋증권 주식회사"
-      ],
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "이노테크",
-      "code": null,
-      "subStart": "2025-10-27",
-      "subEnd": "2025-10-28",
-      "listDate": "2025-11-07",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 14700,
-      "underwriters": [
-        "KB증권(주)"
       ],
       "market": "KOSDAQ"
     },
@@ -1404,6 +1390,20 @@
       "finalPrice": 17600,
       "underwriters": [
         "대신증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "하나에어로다이내믹스",
+      "code": null,
+      "subStart": "2026-11-10",
+      "subEnd": "2026-11-11",
+      "listDate": "2026-11-20",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": null,
+      "underwriters": [
+        "IBK투자증권(주)"
       ],
       "market": "KOSDAQ"
     },
