@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-12T11:20:54+09:00",
+  "updated": "2026-11-13T10:59:48+09:00",
   "source": "DART",
   "items": [
-    {
-      "name": "풍강",
-      "code": "093380",
-      "exDate": "2026-08-31",
-      "payDate": "2026-12-23",
-      "amount": 212,
-      "market": "KOSDAQ"
-    },
     {
       "name": "SNT다이내믹스",
       "code": "003570",
@@ -83,14 +75,6 @@
       "market": "KOSDAQ"
     },
     {
-      "name": "아이마켓코리아",
-      "code": "122900",
-      "exDate": "2026-09-30",
-      "payDate": "2026-11-09",
-      "amount": 170,
-      "market": "KOSPI"
-    },
-    {
       "name": "이노테나",
       "code": "333050",
       "exDate": "2026-10-28",
@@ -99,36 +83,12 @@
       "market": "KOSDAQ"
     },
     {
-      "name": "AJ네트웍스",
-      "code": "095570",
-      "exDate": "2026-11-24",
-      "payDate": "2026-12-08",
-      "amount": 95,
-      "market": "KOSPI"
-    },
-    {
-      "name": "두산",
-      "code": "000150",
-      "exDate": "2026-11-24",
-      "payDate": "2026-12-09",
-      "amount": 1000,
-      "market": "KOSPI"
-    },
-    {
-      "name": "CJ",
-      "code": "001040",
-      "exDate": "2026-11-30",
-      "payDate": "2026-11-09",
-      "amount": 1500,
-      "market": "KOSPI"
-    },
-    {
-      "name": "CJ제일제당",
-      "code": "097950",
-      "exDate": "2026-11-30",
-      "payDate": "2026-11-09",
-      "amount": 1500,
-      "market": "KOSPI"
+      "name": "콜마비앤에이치",
+      "code": "200130",
+      "exDate": "2026-11-27",
+      "payDate": "2026-11-12",
+      "amount": 60,
+      "market": "KOSDAQ"
     },
     {
       "name": "광주신세계",
@@ -153,6 +113,46 @@
       "payDate": "2026-12-18",
       "amount": 2600,
       "market": "KOSPI"
+    },
+    {
+      "name": "삼성에피스홀딩스",
+      "code": "0126Z0",
+      "exDate": "2026-12-04",
+      "payDate": "2026-12-18",
+      "amount": 5043,
+      "market": "KOSPI"
+    },
+    {
+      "name": "휴메딕스",
+      "code": "200670",
+      "exDate": "2026-12-04",
+      "payDate": "2026-12-21",
+      "amount": 200,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "휴온스",
+      "code": "243070",
+      "exDate": "2026-12-04",
+      "payDate": "2026-12-21",
+      "amount": 200,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "휴온스글로벌",
+      "code": "084110",
+      "exDate": "2026-12-04",
+      "payDate": "2026-12-21",
+      "amount": 200,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "휴온스글로벌",
+      "code": "084110",
+      "exDate": "2026-12-04",
+      "payDate": "2026-12-22",
+      "amount": 200,
+      "market": "KOSDAQ"
     }
   ]
 }
