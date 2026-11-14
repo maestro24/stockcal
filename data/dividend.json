@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T10:59:48+09:00",
+  "updated": "2026-11-14T10:31:52+09:00",
   "source": "DART",
   "items": [
     {
@@ -67,19 +67,11 @@
       "market": "KOSDAQ"
     },
     {
-      "name": "씨젠",
-      "code": "096530",
+      "name": "이엘피",
+      "code": "063760",
       "exDate": "2026-09-30",
-      "payDate": "2026-11-20",
-      "amount": 300,
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "이노테나",
-      "code": "333050",
-      "exDate": "2026-10-28",
-      "payDate": "2026-11-24",
-      "amount": 19,
+      "payDate": "2026-12-11",
+      "amount": 40,
       "market": "KOSDAQ"
     },
     {
@@ -89,6 +81,14 @@
       "payDate": "2026-11-12",
       "amount": 60,
       "market": "KOSDAQ"
+    },
+    {
+      "name": "POSCO홀딩스",
+      "code": "005490",
+      "exDate": "2026-11-30",
+      "payDate": "2026-12-11",
+      "amount": 2000,
+      "market": "KOSPI"
     },
     {
       "name": "광주신세계",
@@ -107,11 +107,19 @@
       "market": "KOSDAQ"
     },
     {
-      "name": "신세계",
-      "code": "004170",
+      "name": "티쓰리",
+      "code": "204610",
       "exDate": "2026-11-30",
       "payDate": "2026-12-18",
-      "amount": 2600,
+      "amount": 40,
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "현대엘리베이터",
+      "code": "017800",
+      "exDate": "2026-11-30",
+      "payDate": "2026-12-18",
+      "amount": 1000,
       "market": "KOSPI"
     },
     {
