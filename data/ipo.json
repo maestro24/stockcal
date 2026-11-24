@@ -1,22 +1,7 @@
 {
-  "updated": "2026-11-23T10:52:17+09:00",
+  "updated": "2026-11-24T14:23:06+09:00",
   "source": "KRX KIND / DART",
   "items": [
-    {
-      "name": "더핑크퐁컴퍼니",
-      "code": null,
-      "subStart": "2025-11-06",
-      "subEnd": "2025-11-07",
-      "listDate": "2025-11-18",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 38000,
-      "underwriters": [
-        "미래에셋증권 주식회사",
-        "삼성증권(주)"
-      ],
-      "market": "KOSDAQ"
-    },
     {
       "name": "씨엠티엑스",
       "code": null,
@@ -1404,6 +1389,20 @@
       "finalPrice": 19000,
       "underwriters": [
         "유진투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "우리투자제1호스팩",
+      "code": null,
+      "subStart": "2026-12-02",
+      "subEnd": "2026-12-03",
+      "listDate": "2026-12-14",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": null,
+      "underwriters": [
+        "주식회사 우리투자증권"
       ],
       "market": "KOSDAQ"
     },

@@ -1,29 +1,13 @@
 {
-  "updated": "2026-11-21T11:37:31+09:00",
+  "updated": "2026-11-24T14:23:28+09:00",
   "source": "DART",
   "items": [
     {
-      "name": "아세아",
-      "code": "002030",
-      "exDate": "2026-11-06",
-      "payDate": "2026-11-23",
-      "amount": 630,
-      "market": "KOSPI"
-    },
-    {
-      "name": "아세아시멘트",
-      "code": "183190",
-      "exDate": "2026-11-06",
-      "payDate": "2026-11-23",
-      "amount": 50,
-      "market": "KOSPI"
-    },
-    {
-      "name": "유비온",
-      "code": "084440",
-      "exDate": "2026-12-01",
-      "payDate": "2026-12-28",
-      "amount": 35,
+      "name": "이노테나",
+      "code": "333050",
+      "exDate": "2026-10-28",
+      "payDate": "2026-11-24",
+      "amount": 19,
       "market": "KOSDAQ"
     }
   ]
