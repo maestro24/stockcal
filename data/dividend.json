@@ -1,7 +1,15 @@
 {
-  "updated": "2026-11-26T12:40:49+09:00",
+  "updated": "2026-11-27T12:41:27+09:00",
   "source": "DART",
   "items": [
+    {
+      "name": "GS",
+      "code": "078930",
+      "exDate": "2026-09-30",
+      "payDate": "2026-11-26",
+      "amount": 840,
+      "market": "KOSPI"
+    },
     {
       "name": "이노테나",
       "code": "333050",
