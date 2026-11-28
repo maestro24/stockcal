@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T12:40:26+09:00",
+  "updated": "2026-11-28T12:23:29+09:00",
   "source": "KRX KIND / DART",
   "items": [
     {
@@ -266,20 +266,6 @@
       "finalPrice": 19500,
       "underwriters": [
         "신한투자증권 주식회사"
-      ],
-      "market": "KOSDAQ"
-    },
-    {
-      "name": "나라스페이스테크놀로지",
-      "code": null,
-      "subStart": "2025-12-08",
-      "subEnd": "2025-12-09",
-      "listDate": "2025-12-17",
-      "priceBandLow": null,
-      "priceBandHigh": null,
-      "finalPrice": 16500,
-      "underwriters": [
-        "삼성증권(주)"
       ],
       "market": "KOSDAQ"
     },
@@ -1375,6 +1361,20 @@
       "finalPrice": 19000,
       "underwriters": [
         "유진투자증권(주)"
+      ],
+      "market": "KOSDAQ"
+    },
+    {
+      "name": "신영스팩12호",
+      "code": null,
+      "subStart": "2026-11-24",
+      "subEnd": "2026-11-25",
+      "listDate": "2026-12-03",
+      "priceBandLow": null,
+      "priceBandHigh": null,
+      "finalPrice": 2000,
+      "underwriters": [
+        "신영증권(주)"
       ],
       "market": "KOSDAQ"
     },
